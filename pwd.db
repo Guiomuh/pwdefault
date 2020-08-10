@@ -1,0 +1,2083 @@
+1. Kali OS (v1.0):root:toor
+2. Kali OS (v2.0):kali:kali
+1. Drupal:admin:admin@123
+1. Joomla:admin:(none)
+1. Wordpress:admin:admin
+1. Fortinet - Fortiwan:Administrator:1234
+2. Fortinet - Fortiwan:Monitor:5678
+3. Fortinet - Fortiwan:admin:(none)
+1. Alien Technology - ALR-9900 (Telnet/SSH):root:alien
+2. Alien Technology - ALR-9900 (Telnet/SSH):alien:alien
+1. Draytek Corp - Vigor2200USB:admin:(none)
+2. Draytek Corp - Vigor2600 Plus Series Annex A :admin:(none)
+1. Buffalo/MELCO - AirStation:root:(none)
+1. Extended Systems - Firewall:admin:admin
+2. Extended Systems - Print Server:admin:extendnet
+1. remote-exploit - BackTrack:root:toor
+1. Magic-Pro - PC BIOS (Console):[no user needed]:prost
+1. Raidzone - raid arrays:[no user needed]:raidzone
+1. Niksun - NetDetector:vcr:NetVCR
+1. X-Micro - WLAN 11b Broadband Router (HTTP):super:super
+2. X-Micro - WLAN 11b Broadband Router (HTTP):1502:1502
+1. ACCTON - Wirelessrouter:(none):0000
+2. Accton - CheetahChassis Workgroup Switch (SNMP, web, Telnet):monitor:monitor
+3. Accton - CheetahChassis Workgroup Switch (SNMP, web, Telnet):manager:manager
+4. Accton - CheetahChassis Workgroup Switch (SNMP, web, Telnet):admin:(none)
+5. Accton - Gigabit Switches (Telnet/SSH):__super:(caclulated)
+1. Telappliant - IP2006 SIP Phone (HTTP):admin:1234
+1. Exinda Networks - 1700:admin:exinda
+1. Gossamer Threads Inc. - DBMan:admin:admin
+2. Gossamer Threads Inc. - DBMan:author:author
+3. Gossamer Threads Inc. - DBMan:guest:guest
+1. WWWBoard - WWWADMIN.PL (HTTP):WebAdmin:WebBoard
+1. Interbase - Interbase Database Server (Multi):SYSDBA:masterkey
+1. TopLayer - AppSwitch:siteadmin:toplayer
+1. CTX International - PC BIOS (Console):[no user needed]:CTX_123
+1. Jeebles Technology - Jeebles Directory (HTTP):(none):admin
+1. Mambo - Site Server (HTTP):admin:admin
+1. Airlink - AnyGate (HTTP):(none):admin
+1. Proxim - AP-2000:(blank):public
+1. Allied Telesyn - Rapier G6 Switch:[no user needed]:manager
+2. Allied Telesyn - Various Switches:manager:manager
+1. QDI - PC BIOS (Console):[no user needed]:QDI
+2. QDI - SpeedEasy BIOS (Console):[no user needed]:lesarotl
+1. Foundry Networks - ServerIron:(blank):(none)
+1. Synology Inc - DSM Server:admin:(none)
+1. NetworkICE - ICECap Manager (8081):iceman:(none)
+1. Terayon - TeraLink:admin:password
+1. Bewan - Wireless Routers:bewan:bewan
+1. iNTERFACEWARE Inc. - Iguana (HTTP):admn:password
+1. Research - PC BIOS (Console):[no user needed]:Col2ogro2
+1. test - test:test:test
+1. Iwill - PC BIOS (Console):[no user needed]:iwill
+1. Shuttle - PC BIOS:[no user needed]:Spacve
+1. Jetform - Jetform Design (HTTP):Jetform:(none)
+1. Gateway - WGR-200:admin:admin
+2. Gateway - WGR-250:admin:admin
+1. Attachmate - Attachmate Gateway (Console):[no user needed]:PASSWORD
+1. Huawei Technologies Co - Multiple:admin:admin
+2. Huawei Technologies Co - MT880r:TMAR#HWMT8007079:(none)
+1. CoronaMatrix - phpAddressBook (HTTP):admin:admin
+1. Lenel - OnGuard (HTTP):admin:admin
+1. QNAP - NAS (Multiple) (HTTP/SSH):admin:admin
+1. Ipswitch - WS_FTP Server:XXSESS_MGRYY:X#1833
+2. Ipswitch - WhatsUp Gold (HTTP):admin:admin
+3. Ipswitch - WhatsUp Gold (HTTP):guest:(none)
+1. Sambar Technologies - Sambar Server (HTTP):admin:(none)
+2. Sambar Technologies - Sambar Server (HTTP):billy-bob:(none)
+3. Sambar Technologies - Sambar Server (HTTP):guest:guest
+4. Sambar Technologies - Sambar Server (HTTP):anonymous:(none)
+5. Sambar Technologies - Sambar Server (HTTP):ftp:(none)
+1. Kethinov - Kboard Forum (SQL):root:password
+1. Tasman - T1 (Console):Tasman:Tasmannet
+1. Hyperic, Inc. - Hyperic HQ Portal (HTTP):hqadmin:hqadmin
+1. Intermec - EasyLAN (HTTP):(none):intermec
+1. Sovereign Hill - InQuery:Admin:shs
+1. Promise Technology, Inc. - WebPAM:administrator:password
+1. Black Widow Web Design Ltd - Saxon (HTTP):admin:nimda
+1. Mintel - Mintel PBX:[no user needed]:SYSTEM
+1. RSA - Network Intelligence (SSH):master:themaster01
+2. RSA - SecurID Appliance (HTTP):administrator:RSAAppliance
+3. RSA - Access Manager:admin:admin1234
+4. RSA - Cleartrust (HTTP):admin:admin1234
+1. Zebra Technologies - 10/100 Print Server:admin:1234
+1. Crystalview - OutsideView 32:[no user needed]:Crystal
+1. JAMF Software - Casper Suite (MySQL):jamfsoftware:jamfsw03
+1. Siemens Corp - Hicom 100E PBX:31994:31994
+2. Siemens Corp - Hicom 150E PBX:31994:31994
+3. Siemens Corp - PBX:(none):uboot
+4. Siemens Corp - PC BIOS (Console):[no user needed]:SKY_FOX
+5. Siemens Corp - PhoneMail:poll:poll
+6. Siemens Corp - PhoneMail:system:system
+7. Siemens Corp - PhoneMail:system:field
+8. Siemens Corp - PhoneMail:poll:tech
+9. Siemens Corp - PhoneMail:sysadmin:sysadmin
+10. Siemens Corp - PhoneMail:tech:tech
+11. Siemens Corp - ROLM PBX:admin:pwp
+12. Siemens Corp - ROLM PBX:eng:engineer
+13. Siemens Corp - ROLM PBX:op:op
+14. Siemens Corp - ROLM PBX:op:operator
+15. Siemens Corp - ROLM PBX:su:super
+16. Siemens Corp - SE515:admin:(none)
+17. Siemens Corp - Hipath/Hicom:18140815:18140815
+18. Siemens Corp - Simatic WinCC SCADA:WinCCConnect:2WSXcder
+19. Siemens Corp - Simatic WinCC SCADA:WinCCAdmin:2WSXcde
+1. Funk Software - Steel Belted Radius:admin:radius
+1. Axway - SecureTransport (HTTP):setup:setup
+1. Visa VAP - VAP (TELNET/MODEM):root:QNX
+1. Telebit - Netblazer:snmp:nopasswd
+2. Telebit - Netblazer:setup:setup
+1. Ciphertrust - Ironmail:admin:password
+1. Data General - AOS/VS (Multi):operator:operator
+2. Data General - AOS/VS (Multi):op:op
+3. Data General - AOS/VS (Multi):op:operator
+1. BT - Voyager 2000:admin:admin
+2. BT - Voyager:admin:admin
+3. BT - Home Hub:admin:admin
+1. Q-Tec - 790RH:Admin:(none)
+1. DataWizard Technologies Inc. - FtpQX (FTP):test:test
+2. DataWizard Technologies Inc. - FtpQX (FTP):anonymous:(none)
+1. eZ Systems - eZ Publish (HTTP):admin:publish
+1. ODS - 1094:ods:ods
+1. Typo3 Association - Typo3 (HTTP):admin:password
+1. Siemens - Gigaset SX762 (HTTP):(none):admin
+2. Siemens - S7:basisk:basisk
+3. Siemens - OpenStage SIP Webinterface:(none):123456
+1. Asus - WL-HDD2.5:admin:admin
+2. ASUS - WL-500G:admin:admin
+3. Asus - 520g:admin:admin
+4. Asus - RT-N16 (HTTP):admin:admin
+1. Digital Equipment - 10-Dec (Multi):1:syslib
+2. Digital Equipment - 10-Dec (Multi):1:operator
+3. Digital Equipment - 10-Dec (Multi):1:manager
+4. Digital Equipment - 10-Dec (Multi):2:maintain
+5. Digital Equipment - 10-Dec (Multi):2:syslib
+6. Digital Equipment - 10-Dec (Multi):2:manager
+7. Digital Equipment - 10-Dec (Multi):2:operator
+8. Digital Equipment - 10-Dec (Multi):30:games
+9. Digital Equipment - 10-Dec (Multi):5:games
+10. Digital Equipment - 10-Dec (Multi):7:maintain
+11. Digital Equipment - DEC-10 (Multi):1:syslib
+12. Digital Equipment - DEC-10 (Multi):1:operator
+13. Digital Equipment - DEC-10 (Multi):1:manager
+14. Digital Equipment - DEC-10 (Multi):2:maintain
+15. Digital Equipment - DEC-10 (Multi):2:syslib
+16. Digital Equipment - DEC-10 (Multi):2:manager
+17. Digital Equipment - DEC-10 (Multi):2:operator
+18. Digital Equipment - DEC-10 (Multi):30:games
+19. Digital Equipment - DEC-10 (Multi):5:games
+20. Digital Equipment - DEC-10 (Multi):7:maintain
+21. Digital Equipment - DecServer (Multi):[no user needed]:ACCESS
+22. Digital Equipment - DecServer (Multi):[no user needed]:SYSTEM
+23. Digital Equipment - IRIS (Multi):accounting:accounting
+24. Digital Equipment - IRIS (Multi):boss:boss
+25. Digital Equipment - IRIS (Multi):demo:demo
+26. Digital Equipment - IRIS (Multi):manager:manager
+27. Digital Equipment - IRIS (Multi):PDP11:PDP11
+28. Digital Equipment - IRIS (Multi):PDP8:PDP8
+29. Digital Equipment - IRIS (Multi):software:software
+30. Digital Equipment - PC BIOS (Console):[no user needed]:komprie
+31. Digital Equipment - RSX (Multi):(none):1
+32. Digital Equipment - RSX (Multi):BATCH:BATCH
+33. Digital Equipment - RSX (Multi):SYSTEM:MANAGER
+34. Digital Equipment - RSX (Multi):SYSTEM:SYSTEM
+35. Digital Equipment - RSX (Multi):USER:USER
+36. Digital Equipment - Terminal Server (Port 7000):[no user needed]:access
+37. Digital Equipment - Terminal Server (Port 7000):[no user needed]:system
+38. Digital Equipment - VMS (Multi):ALLIN1:ALLIN1
+39. Digital Equipment - VMS (Multi):ALLIN1MAIL:ALLIN1MAIL
+40. Digital Equipment - VMS (Multi):ALLINONE:ALLINONE
+41. Digital Equipment - VMS (Multi):BACKUP:BACKUP
+42. Digital Equipment - VMS (Multi):DCL:DCL
+43. Digital Equipment - VMS (Multi):DECMAIL:DECMAIL
+44. Digital Equipment - VMS (Multi):DECNET:DECNET
+45. Digital Equipment - VMS (Multi):DECNET:NONPRIV
+46. Digital Equipment - VMS (Multi):DEFAULT:USER
+47. Digital Equipment - VMS (Multi):DEFAULT:DEFAULT
+48. Digital Equipment - VMS (Multi):DEMO:DEMO
+49. Digital Equipment - VMS (Multi):FIELD:FIELD
+50. Digital Equipment - VMS (Multi):FIELD:SERVICE
+51. Digital Equipment - VMS (Multi):FIELD:TEST
+52. Digital Equipment - VMS (Multi):FIELD:DIGITAL
+53. Digital Equipment - VMS (Multi):GUEST:GUEST
+54. Digital Equipment - VMS (Multi):HELP:HELP
+55. Digital Equipment - VMS (Multi):HELPDESK:HELPDESK
+56. Digital Equipment - VMS (Multi):HOST:HOST
+57. Digital Equipment - VMS (Multi):INFO:INFO
+58. Digital Equipment - VMS (Multi):INGRES:INGRES
+59. Digital Equipment - VMS (Multi):LINK:LINK
+60. Digital Equipment - VMS (Multi):MAILER:MAILER
+61. Digital Equipment - VMS (Multi):MBMANAGER:MBMANAGER
+62. Digital Equipment - VMS (Multi):MBWATCH:MBWATCH
+63. Digital Equipment - VMS (Multi):NETCON:NETCON
+64. Digital Equipment - VMS (Multi):NETMGR:NETMGR
+65. Digital Equipment - VMS (Multi):NETNONPRIV:NETNONPRIV
+66. Digital Equipment - VMS (Multi):NETPRIV:NETPRIV
+67. Digital Equipment - VMS (Multi):NETSERVER:NETSERVER
+68. Digital Equipment - VMS (Multi):NETWORK:NETWORK
+69. Digital Equipment - VMS (Multi):NEWINGRES:NEWINGRES
+70. Digital Equipment - VMS (Multi):NEWS:NEWS
+71. Digital Equipment - VMS (Multi):OPERVAX:OPERVAX
+72. Digital Equipment - VMS (Multi):POSTMASTER:POSTMASTER
+73. Digital Equipment - VMS (Multi):PRIV:PRIV
+74. Digital Equipment - VMS (Multi):REPORT:REPORT
+75. Digital Equipment - VMS (Multi):RJE:RJE
+76. Digital Equipment - VMS (Multi):STUDENT:STUDENT
+77. Digital Equipment - VMS (Multi):SYS:SYS
+78. Digital Equipment - VMS (Multi):SYSMAINT:SYSMAINT
+79. Digital Equipment - VMS (Multi):SYSMAINT:SERVICE
+80. Digital Equipment - VMS (Multi):SYSMAINT:DIGITAL
+81. Digital Equipment - VMS (Multi):SYSTEM:SYSTEM
+82. Digital Equipment - VMS (Multi):SYSTEM:MANAGER
+83. Digital Equipment - VMS (Multi):SYSTEM:OPERATOR
+84. Digital Equipment - VMS (Multi):SYSTEM:SYSLIB
+85. Digital Equipment - VMS (Multi):SYSTEST:UETP
+86. Digital Equipment - VMS (Multi):SYSTEST_CLIG:SYSTEST_CLIG
+87. Digital Equipment - VMS (Multi):SYSTEST_CLIG:SYSTEST
+88. Digital Equipment - VMS (Multi):TELEDEMO:TELEDEMO
+89. Digital Equipment - VMS (Multi):TEST:TEST
+90. Digital Equipment - VMS (Multi):UETP:UETP
+91. Digital Equipment - VMS (Multi):USER:PASSWORD
+92. Digital Equipment - VMS (Multi):USERP:USERP
+93. Digital Equipment - VMS (Multi):VAX:VAX
+94. Digital Equipment - VMS (Multi):VMS:VMS
+1. Mentec - Micro/RSX (Multi):MICRO:RSX
+1. Verity - Ultraseek (HTTP):admin:admin
+1. ClearOne Communications - Converge (HTTP):ClearOne:RAV
+2. ClearOne Communications - Converge Pro (HTTP):clearone:converge
+1. Tinys - PC BIOS (Console):[no user needed]:tiny
+1. Elsa - LANCom Office ISDN Router (Telnet):[no user needed]:cisco
+2. Elsa - LANCom Office ISDN Router (Telnet):[no user needed]:(none)
+1. Shiva - LanRover:root:(none)
+2. Shiva - LanRover:guest:(none)
+3. Shiva - AccessPort:hello:hello
+1. Alteon - ACEswitch (HTTP):admin:admin
+2. Alteon - ACEswitch (Telnet):admin:(none)
+1. Exacq Technologies - NVR Server (HTTP):admin:admin256
+2. Exacq Technologies - NVR Server (HTTP):user:user5710
+1. NetGenesis - NetAnalysis Web Reporting (HTTP):naadmin:naadmin
+1. Nexsan - ATABoy2F (HTTP):ADMIN:PASSWORD
+1. VBrick Systems - Multiple:admin:admin
+1. IDEMIA - MorphoManager (HTTP):administrator:password
+1. Barco, Inc. - ClickShare (HTTP):admin:admin
+2. Barco, Inc. - ClickShare (SSID):(none):clickshare
+1. phpLiteAdmin - phpLiteAdmin (HTTP):(none):admin
+1. Telelec - Eagle:eagle:eagle
+1. EMC - Avamar Deduplication Backup Server (HTTP):MCUser:MCUser1
+2. EMC - Avamar Deduplication Backup Server (HTTP):backuponly:backuponly1
+3. EMC - Avamar Deduplication Backup Server (HTTP):restoreonly:restoreonly1
+4. EMC - Avamar Deduplication Backup Server (HTTP):backuprestore:backuprestore1
+5. EMC - Avamar Deduplication Backup Server (HTTP):root:8RttoTriz
+6. EMC - Avamar Deduplication Backup Server (PostgreSQL):viewuser:viewuser1
+7. EMC - Avamar Deduplication Backup Server (SSH):root:changeme
+8. EMC - Avamar Deduplication Backup Server (SSH):admin:changeme
+9. EMC - Avamar Deduplication Backup Server (SSH):dpn:changeme
+1. Unify - OpenStage SIP Webinterface:(none):123456
+1. Brother Industries Ltd. - Oce:admin:access
+2. Brother Industries Ltd. - OCE Imagistics (Physical Access):(none):12345678
+3. Brother Industries Ltd. - OCE Imagistics (Physical Access):(none):00000000
+1. Xyplex - Routers (Port 7000):[no user needed]:access
+2. Xyplex - Routers (Port 7000):[no user needed]:system
+3. Xyplex - Terminal Server (Port 7000):[no user needed]:access
+4. Xyplex - Terminal Server (Port 7000):[no user needed]:system
+5. Xyplex - MX-1600:setpriv:system
+1. Jaspersoft Corporation - Jasper Reports Server (HTTP):superuser:superuser
+2. Jaspersoft Corporation - Jasper Reports Server (HTTP):jasperadmin:jasperadmin
+3. Jaspersoft Corporation - Jasper Reports Server (HTTP):joeuser:joeuser
+4. Jaspersoft Corporation - Jasper Reports Server (HTTP):demo:demo
+1. Liebert - Rack PDU Card (RPC) (HTTP):Liebert:Liebert
+1. Parrot - MKi9100:(none):0000
+1. AST - PC BIOS (Console):[no user needed]:SnuFG5
+1. Microsoft - SiteServer (HTTP):LDAP_Anonymous:LdapPassword_1
+2. Microsoft - Windows NT (Multi):(NULL):(none)
+3. Microsoft - Windows NT (Multi):Administrator:Administrator
+4. Microsoft - Windows NT (Multi):Administrator:(none)
+5. Microsoft - Windows NT (Multi):Guest:Guest
+6. Microsoft - Windows NT (Multi):Guest:(none)
+7. Microsoft - Windows NT (Multi):IS_$hostname:IS_$hostname
+8. Microsoft - Windows NT (Multi):User:User
+11. Microsoft - Wireless Access Point/Router:MSHOME:MSHOME
+12. Microsoft - Base Station MN500:(none):admin
+1. Verizon - 9100EM:admin:password
+2. Verizon - MI424WR:admin:password
+3. Verizon - 9100VM:admin:password
+1. Actiontec - GE344000-01:(none):(none)
+2. Actiontec - M1424WR (HTTP):admin:password
+1. Draytek - Vigor3300v (HTTP):Draytek:1234
+1. WatchGuard - FireBox:(blank):wg
+2. WatchGuard - Firebox X Edge (HTTP):admin:admin
+3. WatchGuard - XTM (HTTP):admin:readwrite
+4. WatchGuard - XTM (HTTP):status:readonly
+1. PokerTracker Software - PokerTracker 3 (PostgreSQL):postgres:svcPASS83
+2. PokerTracker Software - PokerTracker 3 (PostgreSQL):postgres:dbpass
+1. Motorola - Cablerouter (Telnet):cablecom:router
+2. Motorola - Various:service:smile
+3. Motorola - Various:setup:(none)
+4. Motorola - WR850G:admin:password
+5. Motorola - Bluetooth Headsets (Pairing):[no user needed]:0000
+6. Motorola - SURFboard (HTTP):technician:yZgO8Bvj
+1. Nurit - PC BIOS (Console):$system:(none)
+1. Intel - LanRover VPN Gateway (Multi):[no user needed]:shiva
+2. Intel - LanRover VPN Gateway (Multi):[no user needed]:isolation
+3. Intel - Shiva Lanrovers (Multi):root:(none)
+4. Intel - Shiva (Multi):Guest:(none)
+5. Intel - Shiva (Multi):root:(none)
+1. Research Machines - Classroom Assistant:manager:changeme
+1. SysKonnect - 6616:default.password:(none)
+1. Netcordia - NetMRI (HTTP):admin:admin
+1. TIBCO - MFT Internet Server (HTTP):admin:admin
+2. Tibco - Slingshot (HTTP):admin:changeit
+1. SMA America - Sunny Webbox:(none):sma
+1. Ssangyoung - SR2501:(blank):2501
+1. Netopia - Netopia 7100 (Telnet):(none):(none)
+2. Netopia - Netopia 9500 (Telnet):netopia:netopia
+3. Netopia - routers (Telnet):factory:(see note)
+1. Symbol Technologies, Inc - WS5100:admin:superuser
+1. Airway - Transport:(none):0000
+1. Sonicwall - SOHO, TELE, TZ and PRO:admin:password
+1. Colubris Networks - CN3200:admin:admin
+2. Colubris Networks - MSC 5100 (HTTP):admin:admin
+1. Concord - PC BIOS:[no user needed]:last
+1. Open-Xchange Inc. - Open-Xchange Server:mailadmin:secret
+1. RM - RM Connect (Multi):admin:rmnetlm
+2. RM - RM Connect (Multi):admin2:changeme
+3. RM - RM Connect (Multi):adminstrator:changeme
+4. RM - RM Connect (Multi):deskalt:password
+5. RM - RM Connect (Multi):deskman:changeme
+6. RM - RM Connect (Multi):desknorm:password
+7. RM - RM Connect (Multi):deskres:password
+8. RM - RM Connect (Multi):guest:(none)
+9. RM - RM Connect (Multi):replicator:replicator
+10. RM - RM Connect (Multi):RMUser1:password
+11. RM - RM Connect (Multi):setup:changeme
+12. RM - RM Connect (Multi):teacher:password
+13. RM - RM Connect (Multi):temp1:password
+14. RM - RM Connect (Multi):topicalt:password
+15. RM - RM Connect (Multi):topicnorm:password
+16. RM - RM Connect (Multi):topicres:password
+17. RM - Server BIOS (Console):[no user needed]:RM
+1. Comcast SMC - 8014:cusadmin:highspeed
+1. Acer - BIOS:(none):(none)
+1. Hitachi Systems - Compute Kit (Vantara) (HTTP):ceconsl:cepasswd
+2. Hitachi Systems - Multiple (Device Manager, Tuning Manager, Storage Manager) (HTTP):system:manager
+3. Hitachi Systems - Storage Manager (SSH):root:storage
+4. Hitachi Systems - HiTrack (HTTP):admin:hds
+1. Bomgar - Enterprise (HTTP):admin:password
+1. JD Edwards - WorldVision/OneWorld (Console):JDE:JDE
+2. JD Edwards - WorldVision/OneWorld (TCP 1964):JDE:JDE
+1. Nokia - M10:Telecom:Telecom
+2. Nokia - 770:root:rootme
+1. eQ-3 - HomeMatic:root:MuZhlo9n%8!G
+1. Micron - PC BIOS (Console):[no user needed]:sldkj754
+2. Micron - PC BIOS (Console):[no user needed]:xyzall
+1. Tumbleweed - IME (HTTPS):Admin:SECRET123
+1. Justin Hagstrom - AutoIndex:admin:admin
+2. Justin Hagstrom - AutoIndex:test:test
+1. BestPractical - RT (HTTP):root:password
+1. Unknown - POCSAG Radio Paging (Port 8000):[no user needed]:password
+2. Unknown - System 88 (Console):test:test
+3. Unknown - System 88 (Console):operator:operator
+4. Unknown - System 88 (Console):overseer:overseer
+1. Web Wiz - Forums (HTTP):Administrator:letmein
+1. Kodak - PACS (PC Anywhere):PACSLinkIP:NetServer
+2. Kodak - MIM (PC Anywhere):PLMIMService:NetServer
+3. Kodak - MIM (Serial):Service:Service
+4. Kodak - MIM (Windows):RNIServiceManager:NetServer
+5. Kodak - MIM (HTTP):SA:PASSWORD
+1. Aladdin - eSafe Appliance (Console/SSH):root:kn1TG7psLu
+1. GuardOne - BizGuard (Multi):n.a:guardone
+2. GuardOne - Restrictor (Multi):[no user needed]:guardone
+1. Conceptronic - CADSLR4 (HTTP, Telnet):admin:password
+2. Conceptronic - CADSLR4 (FTP):anonymous:password
+3. Conceptronic - C100BRS4H (HTTP):admin:1234
+1. Fastream Technologies - Fastream IQ Web/FTP Server:root:(none)
+1. LaCie - 500GB ETHERNET DISK MINI:admin:admin
+1. Radvision - MCU-323:(none):MCUrv
+2. Radvision - ECS Administrator (HTTP):admin:(none)
+1. Eminent - EM4114:admin:admin
+1. Dell - Lattitude CMOS:(none):nz0u4bbe
+2. Dell - PC BIOS (Console):[no user needed]:Dell
+3. Dell - Switch PowerConnect:admin:admin
+4. Dell - ERA:root:calvin
+5. Dell - RAC:root:calvin
+6. Dell - Poweredge:admin:admin
+7. Dell - TrueMobile:admin:admin
+8. Dell - PowerVault:admin:password
+9. Dell - PowerEdge NF100:Administrator:storageserver
+10. Dell - DRAC (Multiple):root:calvin
+11. Dell - Kace K2000 (HTTP):admin:admin
+12. Dell - Wyse Rapport (FTP):rapport:r@p8p0r+
+13. Dell - Winterm (Console):root:wyse
+14. Dell - Winterm (VNC):VNC:winterm
+15. Dell - Winterm (BIOS):(none):Fireport
+1. Grandstream Networks, Inc - HandyTone-486 (HTTP):admin:admin
+2. Grandstream Networks, Inc - HandyTone-486 (HTTP):End User:123
+1. Biscom - Biscom Delivery Server (BDS) (Multiple):admin:admin
+1. Tim Schaab - Mad.Thought (HTTP):theman:changeit
+1. Super Micro Computer, Inc. - IPMI (HTTP):ADMIN:ADMIN
+1. Yakumo - Routers (HTTP):admin:admin
+1. Galacticomm - Major BBS (Multi):Sysop:Sysop
+1. Loglogic - Loglogic Appliance (SSH):toor:logapp
+2. Loglogic - Loglogic Appliance (SSH):root:logapp
+1. VoiceObjects Germany - VoiceObjects (HTTP):voadmin:manager
+1. DotNetNuke Corporation - DotNetNuke (HTTP):host:dnnhost
+2. DotNetNuke Corporation - DotNetNuke (HTTP):admin:dnnadmin
+1. Cisco - Cisco IDS:root:attack
+2. Cisco - CiscoWorks 2000:guest:(none)
+3. Cisco - CiscoWorks 2000:admin:cisco
+4. Cisco - ConfigMaker:cmaker:cmaker
+5. Cisco - IOS (Multi):[no user needed]:c
+6. Cisco - IOS (Multi):ripeop:(none)
+7. Cisco - IOS (Multi):cisco:cisco
+8. Cisco - IOS (Multi):enable:cisco
+9. Cisco - IOS (Multi):[no user needed]:cc
+10. Cisco - IOS (Multi):[no user needed]:cisco
+11. Cisco - IOS (Multi):[no user needed]:Cisco router
+12. Cisco - IOS (SNMP):public ReadOnly access:secret
+13. Cisco - IOS (SNMP):private ReadWrite access:secret
+14. Cisco - PIX (Telnet):[no user needed]:cisco
+15. Cisco - Trailhead (HTTP):admin:admin
+16. Cisco - Unity (local):bubba:(unknown)
+17. Cisco - AIR-AP1231G-A-K9:Cisco:Cisco
+24. Cisco - 1100:(none):Cisco
+25. Cisco - 1400:(none):Cisco
+26. Cisco - 1200:Cisco:Cisco
+27. Cisco - 1300:Cisco:Cisco
+28. Cisco - IP Conference Station (HTTP):End User:7936
+29. Cisco - Cisco Guard (SNMP):(none):riverhead
+30. Cisco - Traffic Anomaly Detector (SNMP):(none):riverhead
+31. Cisco - Network Registrar (CNR):admin:changeme
+32. Cisco - Cisco Broadband Troubleshooter (CBT):admin:changeme
+33. Cisco - ATA 186:admin:(none)
+34. Cisco - VPN 3000:admin:admin
+35. Cisco - CS-MARS (HTTP):pnadmin:pnadmin
+36. Cisco - VPN 3000:admin:admin
+37. Cisco - VPN 5000:[no user needed]:letmein
+38. Cisco - 2600 (Telnet):Administrator:admin
+39. Cisco - 3600 (Telnet):Administrator:admin
+40. Cisco - ATA-186 (VONAGE) (HTTP):(none):(none)
+41. Cisco - AIRONET (Multi):(none):_Cisco
+42. Cisco - AIRONET (Multi):Cisco:Cisco
+43. Cisco - AIRONET 1200 (HTTP):root:Cisco
+44. Cisco - CISCO AP1200 (Multi):Cisco:Cisco
+45. Cisco - CISO AIRONET 1100 SERIES (HTTP):(none):Cisco
+46. Cisco - CACHE ENGINE (CONSOLE):admin:diamond
+47. Cisco - CONTENT ENGINE (Telnet):admin:default
+48. Cisco - CVA 122 (Telnet):admin:admin
+49. Cisco - HSE (Multi):hsa:hsadb 
+50. Cisco - HSE (Multi):root:blender
+51. Cisco - IDS  (Multi):root:attack
+52. Cisco - IDS  (Multi):cisco:cisco
+53. Cisco - PIX FIREWALL (Telnet):(none):cisco
+54. Cisco - NETRANGER/SECURE IDS (Multi):netrangr:attack
+55. Cisco - NETRANGER/SECURE IDS (Multi):root :attack
+56. Cisco - VPN CONCENTRATOR 3000 SERIES (Multi):admin:admin
+57. Cisco - WLSE (Multi):root:blender
+58. Cisco - WLSE (Multi):wlse:wlsedb
+59. Cisco - VPN3000:(none):changeit
+60. Cisco - Catalyst Express 520 (HTTP):cisco:cisco
+61. Cisco - Video Surveillance Manager (VSM) (Multiple):root:secur4u
+62. Cisco - Codec (HTTP):admin:(none)
+63. Cisco - Modeling Labs (HTTP):uwmadmin:password
+2. Dynix Library Systems - Dynix (Multi):LIBRARY:(none)
+3. Dynix Library Systems - Dynix (Multi):SETUP:(none)
+1. Adobe - Vignette Connector (HTTP):vgnadmin:vgnadmin
+2. Adobe - CQ:admin:admin
+3. Adobe - CQ:author:author
+4. Adobe - Experience Manager (HTTP):admin:admin
+5. Adobe - Experience Manager/CQ:anonymous:anonymous
+6. Adobe - Experience Manager/CQ:replication-receiver:replication-receiver
+7. Adobe - Experience Manager/CQ:jdoe@geometrixx.info:jdoe
+8. Adobe - Experience Manager/CQ:aparker@geometrixx.info:aparker
+1. Apple Computer - Network Assistant:(blank):xyzzy
+2. Apple Computer - Airport:(blank):public
+3. Apple Computer - Remote Desktop:(blank):xyzzy
+1. Novell - Groupwise 5.5 Enhancement Pack (Multi):servlet:manager
+2. Novell - Groupwise 6.0 (Multi):servlet:manager
+3. Novell - iManager:admin:novell
+4. Novell - NDS iMonitor (HTTP):sadmin:(none)
+5. Novell - Netware (Multi):ADMIN:admin
+6. Novell - Netware (Multi):ADMIN:(none)
+7. Novell - Netware (Multi):ARCHIVIST:(none)
+8. Novell - Netware (Multi):ARCHIVIST:ARCHIVIST
+9. Novell - Netware (Multi):BACKUP:(none)
+10. Novell - Netware (Multi):BACKUP:BACKUP
+11. Novell - Netware (Multi):CHEY_ARCHSVR:CHEY_ARCHSVR
+12. Novell - Netware (Multi):CHEY_ARCHSVR:(none)
+13. Novell - Netware (Multi):FAX:FAX
+14. Novell - Netware (Multi):FAX:(none)
+15. Novell - Netware (Multi):FAXUSER:FAXUSER
+16. Novell - Netware (Multi):FAXUSER:(none)
+17. Novell - Netware (Multi):FAXWORKS:(none)
+18. Novell - Netware (Multi):FAXWORKS:FAXWORKS
+19. Novell - Netware (Multi):GATEWAY:GATEWAY
+20. Novell - Netware (Multi):GATEWAY:(none)
+21. Novell - Netware (Multi):GUEST:TSEUG
+22. Novell - Netware (Multi):GUEST:GUESTGUEST
+23. Novell - Netware (Multi):GUEST:GUESTGUE
+24. Novell - Netware (Multi):GUEST:GUEST
+25. Novell - Netware (Multi):GUEST:(none)
+26. Novell - Netware (Multi):HPLASER:(none)
+27. Novell - Netware (Multi):HPLASER:HPLASER
+28. Novell - Netware (Multi):LASER:(none)
+29. Novell - Netware (Multi):LASER:LASER
+30. Novell - Netware (Multi):LASERWRITER:LASERWRITER
+31. Novell - Netware (Multi):LASERWRITER:(none)
+32. Novell - Netware (Multi):MAIL:(none)
+33. Novell - Netware (Multi):MAIL:MAIL
+34. Novell - Netware (Multi):POST:(none)
+35. Novell - Netware (Multi):POST:POST
+36. Novell - Netware (Multi):PRINT:(none)
+37. Novell - Netware (Multi):PRINT:PRINT
+38. Novell - Netware (Multi):PRINTER:(none)
+39. Novell - Netware (Multi):PRINTER:PRINTER
+40. Novell - Netware (Multi):ROOT:(none)
+41. Novell - Netware (Multi):ROOT:ROOT
+42. Novell - Netware (Multi):ROUTER:(none)
+43. Novell - Netware (Multi):SABRE:(none)
+44. Novell - Netware (Multi):SUPERVISOR:NETFRAME
+45. Novell - Netware (Multi):SUPERVISOR:NFI
+46. Novell - Netware (Multi):SUPERVISOR:NF
+47. Novell - Netware (Multi):SUPERVISOR:HARRIS
+48. Novell - Netware (Multi):SUPERVISOR:SUPERVISOR
+49. Novell - Netware (Multi):SUPERVISOR:(none)
+50. Novell - Netware (Multi):SUPERVISOR:SYSTEM
+51. Novell - Netware (Multi):TEST:TEST
+52. Novell - Netware (Multi):TEST:(none)
+53. Novell - Netware (Multi):USER_TEMPLATE:(none)
+54. Novell - Netware (Multi):USER_TEMPLATE:USER_TEMPLATE
+55. Novell - Netware (Multi):WANGTEK:(none)
+56. Novell - Netware (Multi):WANGTEK:WANGTEK
+57. Novell - Netware (Multi):WINDOWS_PASSTHRU:WINDOWS_PASSTHRU
+58. Novell - Netware (Multi):WINDOWS_PASSTHRU:(none)
+59. Novell - Netware (Multi):WINSABRE:SABRE
+60. Novell - Netware (Multi):WINSABRE:WINSABRE
+61. Novell - Vibe (HTTP):admin:admin
+1. Samuel Abels - Ammerum:user:password
+1. Polycom - ViewStation 4000 (HTTP):(blank):(none)
+2. Polycom - ViewStation 4000 (HTTP):(none):(none)
+3. Polycom - ViewStation 4000 (HTTP):(none):x6zynd56
+4. Polycom - Soundstation IP (HTTP):administrator:* * #
+5. Polycom - WebOffice:(none):ACCORD
+6. Polycom - Soundstation/SoundPoint IP:Polycom:456
+1. Netstar - Netpilot:admin:password
+1. Linux - Slackware (Multi):gonzo:(none)
+2. Linux - Slackware (Multi):satan:(none)
+3. Linux - Slackware (Multi):snake:(none)
+4. Linux - UCLinux for UCSIMM (Multi):root:uClinux
+1. Tiny - PC BIOS (Console):[no user needed]:Tiny
+1. 3COM - AirConnect AP (SNMP):[no user needed]:comcomcom
+2. 3COM - CellPlex (Telnet):tech:tech
+3. 3COM - CoreBuilder (Telnet):debug:synnet
+4. 3COM - CoreBuilder (Telnet):tech:tech
+5. 3COM - HiPerARC (Telnet):adm:(none)
+6. 3COM - LANplex (Telnet):debug:synnet
+7. 3COM - LANplex (Telnet):tech:tech
+8. 3COM - LinkSwitch (Telnet):tech:tech
+9. 3COM - N/A (Telnet):adm:(none)
+10. 3COM - N/A (Telnet):admin:synnet
+11. 3COM - N/A (Telnet):manager:manager
+12. 3COM - N/A (Telnet):monitor:monitor
+13. 3COM - N/A (Telnet):read:synnet
+14. 3COM - N/A (Telnet):security:security
+15. 3COM - N/A (Telnet):write:synnet
+16. 3COM - NetBuilder (SNMP):[no user needed]:ANYCOM
+17. 3COM - Office Connect ISDN Routers (Telnet):[no user needed]:PASSWORD
+18. 3COM - OfficeConnect Remote Router (Telnet):root:!root
+19. 3COM - Superstack 3 switch (Console):recover:recover
+20. 3COM - SuperStack II Switch (Telnet):monitor:monitor
+21. 3COM - SuperStack II Switch (Telnet):manager:manager
+22. 3COM - SuperStack II Switch (Telnet):admin:(none)
+23. 3COM - SuperStack II Switch (Telnet):security:security
+24. 3COM - SuperStack II Switch (Telnet):debug:synnet
+25. 3COM - SuperStack II Switch (Telnet):tech:tech
+26. 3COM - US Robotics ADSL Router (HTTP):(none):12345
+27. 3COM - Wireless AP:[no user needed]:comcomcom
+28. 3COM - OfficeConnect Wireless AP:(none):admin
+29. 3COM - 3CRWE52196:(none):admin
+30. 3COM - Router (Boot Prompt):(none):(none)
+31. 3Com - e960 (HTTP):Admin:Admin
+1. Amino - AmiNET Set Top Box (HTTP):(none):leaves
+2. Amino - AmiNET Set Top Box (HTTP):(none):snake
+1. Advanced Integration - PC BIOS (Console):[no user needed]:Advance
+1. Bintec - Bianka Routers (Multi):admin:bintec
+2. Bintec - Router:admin:funkwerk
+1. Dlink - DWL-810+:admin:(none)
+2. Dlink - DWL-700AP:admin:(none)
+3. Dlink - DWL-7000AP:admin:(none)
+4. Dlink - DWL-2000AP+:admin:(none)
+5. Dlink - DI-614:admin:(none)
+6. Dlink - DI-624:admin:(none)
+7. Dlink - DI-624+:admin:(none)
+8. Dlink - DWL-900:admin:public
+9. Dlink - DWL-900+:admin:(none)
+10. Dlink - DWL-1000+:admin:(none)
+11. Dlink - DSL-604+:admin:admin
+12. Dlink - DSL-G604T:admin:admin
+1. Chuming Chen - NessusWeb (HTTP):administrator:adminpass
+1. Teletronics - WL-CPE Router:admin:1234
+1. Vonage - VTA:user:user
+1. Trend Micro - InterScan VirusWall (HTTP):admin:admin
+2. Trend Micro - Trend Micro (HTTP):admin:admin
+3. Trend Micro - Interscan Messaging Security Appliance:admin:imsa7.0
+4. Trend Micro - Trenmicro InterScan Messaging Security Appliance (IMSA) 5000 (HTTP, SSH, Serial Console):root:trendimsa1.0
+1. Edimax - 7205APL:guest:1234
+2. Edimax - AR-6004:admin:1234
+3. Edimax - BR-6204WG:admin:1234
+4. Edimax - BR-7209WG:admin:1234
+5. Edimax - AR-7024Wg:admin:epicrouter
+6. Edimax - DI-524:admin:(none)
+1. Billion - BiPAC 7404VGO:admin:admin
+2. Billion - BiGuard (HTTP):admin:admin
+1. Mitel Networks - SX2000 (telnet/serial):system:sx2000
+2. Mitel Networks - SX2000 (telnet/serial):installer:sx2000
+3. Mitel Networks - SX2000 (telnet/serial):maint1:sx2000
+4. Mitel Networks - SX2000 (telnet/serial):maint2:sx2000
+5. Mitel Networks - SX2000 (telnet/serial):1nstaller:5X2000
+6. Mitel Networks - SX2000 (telnet/serial):s1stem:5X2000
+1. Kyocera - FS-1020D (HTTP):admin:admin
+2. Kyocera - FS-1020D (HTTP):admin:(none)
+1. Epox - PC BIOS (Console):[no user needed]:central
+1. Red Hat, Inc - PC BIOS (Console):[no user needed]:AMIAMI
+2. Red Hat, Inc - PC BIOS (Console):[no user needed]:AMIDECOD
+3. Red Hat, Inc - Redhat 6.2 (HTTP):piranha:q
+4. Red Hat, Inc - Redhat 6.2 (HTTP):piranha:piranha
+5. Red Hat, Inc - JBOSS (HTTP):admin:admin
+1. Daytek - PC BIOS (Console):[no user needed]:Daytec
+1. Oracle - WebLogic Process Integrator:system:security
+2. Oracle - WebLogic Process Integrator:admin:security
+3. Oracle - WebLogic Process Integrator:mary:password
+4. Oracle - WebLogic Process Integrator:joe:password
+5. Oracle - WebLogic Process Integrator:wlpisystem:wlpisystem
+6. Oracle - WebLogic Process Integrator:wlcsystem:wlcsystem
+7. Oracle - Internet Directory Service:cn=orcladmin:welcome
+8. Oracle - Oracle:LBACSYS:LBACSYS
+9. Oracle - Oracle:OAS_PUBLIC:OAS_PUBLIC
+10. Oracle - Oracle:MXAGENT:MXAGENT
+11. Oracle - Oracle:MTS_USER:MTS_PASSWORD
+12. Oracle - Oracle:MASTER:PASSWORD
+13. Oracle - Oracle:LIBRARIAN:SHELVES
+14. Oracle - Oracle:IMEDIA:IMEDIA
+15. Oracle - Oracle:FROSTY:SNOWMAN
+16. Oracle - Oracle:ESTOREUSER:ESTORE
+17. Oracle - Oracle:EJSADMIN:EJSADMIN
+18. Oracle - Oracle:DES:DES
+19. Oracle - Oracle:DBI:MUMBLEFRATZ
+20. Oracle - Oracle:CQSCHEMAUSER:PASSWORD
+21. Oracle - Oracle:COMPIERE:COMPIERE
+22. Oracle - Oracle:ADMIN:WELCOME
+23. Oracle - Oracle:CISINFO:CISINFO
+24. Oracle - Oracle:CIS:CIS
+25. Oracle - Oracle:CIDS:CIDS
+26. Oracle - Oracle:BC4J:BC4J
+27. Oracle - Oracle:AQ:AQ
+28. Oracle - Oracle:CENTRA:CENTRA
+29. Oracle - Oracle:ADMIN:JETSPEED
+30. Oracle - Oracle:ADAMS:WOOD
+31. Oracle - Oracle:ADLDEMO:ADLDEMO
+32. Oracle - Oracle:APPLSYS:FND
+33. Oracle - Oracle:APPLSYSPUB:FNDPUB
+34. Oracle - Oracle:APPS:APPS
+35. Oracle - Oracle:AQDEMO:AQDEMO
+36. Oracle - Oracle:AQJAVA:AQJAVA
+37. Oracle - Oracle:AQUSER:AQUSER
+38. Oracle - Oracle:AUDIOUSER:AUDIOUSER
+39. Oracle - Oracle:AURORA$JIS$UTILITY$:(none)
+40. Oracle - Oracle:AURORA$ORB$UNAUTHENTICATED:INVALID
+41. Oracle - Oracle:BLAKE:PAPER
+42. Oracle - Oracle:CATALOG:CATALOG
+43. Oracle - Oracle:CDEMO82:CDEMO82
+44. Oracle - Oracle:CDEMORID:CDEMORID
+45. Oracle - Oracle:CDEMOUCB:CDEMOUCB
+46. Oracle - Oracle:CLARK:CLOTH
+47. Oracle - Oracle:COMPANY:COMPANY
+48. Oracle - Oracle:CSMIG:CSMIG
+49. Oracle - Oracle:CTXDEMO:CTXDEMO
+50. Oracle - Oracle:CTXSYS:CTXSYS
+51. Oracle - Oracle:DBSNMP:DBSNMP
+52. Oracle - Oracle:MDSYS:MDSYS
+53. Oracle - Oracle:DEMO9:DEMO9
+54. Oracle - Oracle:EMP:EMP
+55. Oracle - Oracle:EVENT:EVENT
+56. Oracle - Oracle:FINANCE:FINANCE
+57. Oracle - Oracle:FND:FND
+58. Oracle - Oracle:GPLD:GPLD
+59. Oracle - Oracle:GPFD:GPFD
+60. Oracle - Oracle:HLW:HLW
+61. Oracle - Oracle:HR:HR
+62. Oracle - Oracle:IMAGEUSER:IMAGEUSER
+63. Oracle - Oracle:JMUSER:JMUSER
+64. Oracle - Oracle:JONES:STEEL
+65. Oracle - Oracle:MFG:MFG
+66. Oracle - Oracle:MIGRATE:MIGRATE
+67. Oracle - Oracle:MILLER:MILLER
+68. Oracle - Oracle:MMO2:MMO2
+69. Oracle - Oracle:MOREAU:MOREAU
+70. Oracle - Oracle:MODTEST:YES
+71. Oracle - Oracle:MTSSYS:MTSSYS
+72. Oracle - Oracle:NAMES:NAMES
+73. Oracle - Oracle:OCITEST:OCITEST
+74. Oracle - Oracle:ODS:ODS
+75. Oracle - Oracle:OE:OE
+76. Oracle - Oracle:OLAPDBA:OLAPDBA
+77. Oracle - Oracle:PM:PM
+78. Oracle - Oracle:OLAPSVR:INSTANCE
+79. Oracle - Oracle:OLAPSYS:MANAGER
+80. Oracle - Oracle:ORACACHE:(random password)
+81. Oracle - Oracle:ORDPLUGINS:ORDPLUGINS
+82. Oracle - Oracle:ORDSYS:ORDSYS
+83. Oracle - Oracle:OSE$HTTP$ADMIN:(random password)
+84. Oracle - Oracle:OUTLN:OUTLN
+85. Oracle - Oracle:PERFSTAT:PERFSTAT
+86. Oracle - Oracle:PO:PO
+87. Oracle - Oracle:PO7:PO7
+88. Oracle - Oracle:PORTAL30:PORTAL31
+89. Oracle - Oracle:PORTAL30_DEMO:PORTAL30_DEMO
+90. Oracle - Oracle:PORTAL30_PUBLIC:PORTAL30_PUBLIC
+91. Oracle - Oracle:PORTAL30_SSO:PORTAL30_SSO
+92. Oracle - Oracle:PORTAL30_SSO_PS:PORTAL30_SSO_PS
+93. Oracle - Oracle:PORTAL30_SSO_PUBLIC:PORTAL30_SSO_PUBLIC
+94. Oracle - Oracle:POWERCARTUSER:POWERCARTUSER
+95. Oracle - Oracle:PRIMARY:PRIMARY
+96. Oracle - Oracle:PUBSUB:PUBSUB
+97. Oracle - Oracle:QS:QS
+98. Oracle - Oracle:QS_ADM:QS_ADM
+99. Oracle - Oracle:QS_CB:QS_CB
+100. Oracle - Oracle:QS_CBADM:QS_CBADM
+101. Oracle - Oracle:QS_CS:QS_CS
+102. Oracle - Oracle:QS_ES:QS_ES
+103. Oracle - Oracle:QS_OS:QS_OS
+104. Oracle - Oracle:QS_WS:QS_WS
+105. Oracle - Oracle:RE:RE
+106. Oracle - Oracle:REPADMIN:REPADMIN
+107. Oracle - Oracle:RMAIL:RMAIL
+108. Oracle - Oracle:RMAN:RMAN
+109. Oracle - Oracle:SAMPLE:SAMPLE
+110. Oracle - Oracle:SECDEMO:SECDEMO
+111. Oracle - Oracle:SH:SH
+112. Oracle - Oracle:SYSADM:SYSADM
+113. Oracle - Oracle:TRACESVR:TRACE
+114. Oracle - Oracle:TSDEV:TSDEV
+115. Oracle - Oracle:TSUSER:TSUSER
+116. Oracle - Oracle:USER0:USER0
+117. Oracle - Oracle:USER1:USER1
+118. Oracle - Oracle:USER2:USER2
+119. Oracle - Oracle:USER3:USER3
+120. Oracle - Oracle:USER4:USER4
+121. Oracle - Oracle:USER5:USER5
+122. Oracle - Oracle:USER6:USER6
+123. Oracle - Oracle:USER7:USER7
+124. Oracle - Oracle:USER8:USER8
+125. Oracle - Oracle:USER9:USER9
+126. Oracle - Oracle:UTLBSTATU:UTLESTAT
+127. Oracle - Oracle:VIDEOUSER:VIDEO USER
+128. Oracle - Oracle:VIF_DEVELOPER:VIF_DEV_PWD
+129. Oracle - Oracle:VIRUSER:VIRUSER
+130. Oracle - Oracle:VRR1:VRR1
+131. Oracle - Oracle:WKSYS:WKSYS
+132. Oracle - Oracle:CTXSYS:(none)
+133. Oracle - Oracle:DEMO8:DEMO8
+134. Oracle - Oracle:CDEMOCOR:CDEMOCOR
+135. Oracle - Oracle:ODSCOMMON:ODSCOMMON
+136. Oracle - Oracle:OEMADM:OEMADM
+137. Oracle - Oracle:OMWB_EMULATION:ORACLE
+138. Oracle - Oracle:OPENSPIRIT:OPENSPIRIT
+139. Oracle - Oracle:ORAREGSYS:ORAREGSYS
+140. Oracle - Oracle:OSP22:OSP22
+141. Oracle - Oracle:OWA:OWA
+142. Oracle - Oracle:OWA_PUBLIC:OWA_PUBLIC
+143. Oracle - Oracle:PANAMA:PANAMA
+144. Oracle - Oracle:PATROL:PATROL
+145. Oracle - Oracle:PLSQL:SUPERSECRET
+146. Oracle - Oracle:REP_MANAGER:DEMO
+147. Oracle - Oracle:REP_OWNER:DEMO
+148. Oracle - Oracle:REP_OWNER:REP_OWNER
+149. Oracle - Oracle:SAP:SAPR3
+150. Oracle - Oracle:SDOS_ICSAP:SDOS_ICSAP
+151. Oracle - Oracle:SITEMINDER:SITEMINDER
+152. Oracle - Oracle:SLIDE:SLIDEPW
+153. Oracle - Oracle:STARTER:STARTER
+154. Oracle - Oracle:STRAT_USER:STRAT_PASSWD
+155. Oracle - Oracle:SWPRO:SWPRO
+156. Oracle - Oracle:SWUSER:SWUSER
+157. Oracle - Oracle:SYMPA:SYMPA
+158. Oracle - Oracle:SYSMAN:OEM_TEMP
+159. Oracle - Oracle:TAHITI:TAHITI
+160. Oracle - Oracle:TDOS_ICSAP:TDOS_ICSAP
+161. Oracle - Oracle:TESTPILOT:TESTPILOT
+162. Oracle - Oracle:TRAVEL:TRAVEL
+163. Oracle - Oracle:TURBINE:TURBINE
+164. Oracle - Oracle:ULTIMATE:ULTIMATE
+165. Oracle - Oracle:USER:USER
+166. Oracle - Oracle:WEBCAL01:WEBCAL01
+167. Oracle - Oracle:WEBDB:WEBDB
+168. Oracle - Oracle:WEBREAD:WEBREAD
+169. Oracle - Oracle:WWW:WWW
+170. Oracle - Oracle:WWWUSER:WWWUSER
+171. Oracle - Oracle:XPRT:XPRT
+172. Oracle - Oracle:ADMINISTRATOR:ADMINISTRATOR
+173. Oracle - Oracle:ADMINISTRATOR:admin
+174. Oracle - Oracle:ANDY:SWORDFISH
+175. Oracle - Oracle:AP:AP
+176. Oracle - Oracle:APPUSER:APPUSER
+177. Oracle - Oracle:BRIO_ADMIN:BRIO_ADMIN
+178. Oracle - Oracle:DEV2000_DEMOS:DEV2000_DEMOS
+179. Oracle - Oracle:DISCOVERER_ADMIN:DISCOVERER_ADMIN
+180. Oracle - Oracle:DSGATEWAY:DSGATEWAY
+181. Oracle - Oracle:DSSYS:DSSYS
+182. Oracle - Oracle:GL:GL
+183. Oracle - Oracle:HCPARK:HCPARK
+184. Oracle - Oracle:JWARD:AIROPLANE
+185. Oracle - Oracle:L2LDEMO:L2LDEMO
+186. Oracle - Oracle:MDDEMO:MDDEMO
+187. Oracle - Oracle:MDDEMO_CLERK:CLERK
+188. Oracle - Oracle:MDDEMO_MGR:MGR
+189. Oracle - Oracle:MGWUSER:MGWUSER
+190. Oracle - Oracle:ODM:ODM
+191. Oracle - Oracle:ODM_MTR:MTRPW
+192. Oracle - Oracle:OEMREP:OEMREP
+193. Oracle - Oracle:OO:OO
+194. Oracle - Oracle:ORASSO:ORASSO
+195. Oracle - Oracle:OWNER:OWNER
+196. Oracle - Oracle:PLEX:PLEX
+197. Oracle - Oracle:PORTAL30:PORTAL30
+198. Oracle - Oracle:PUBSUB1:PUBSUB1
+199. Oracle - Oracle:QDBA:QDBA
+200. Oracle - Oracle:REPORTS_USER:OEM_TEMP
+201. Oracle - Oracle:SERVICECONSUMER1:SERVICECONSUMER1
+202. Oracle - Oracle:SYS:D_SYSPW
+203. Oracle - Oracle:SYSTEM:D_SYSTPW
+204. Oracle - Oracle:internal:oracle
+205. Oracle - Oracle:scott:tiger or tigger
+206. Oracle - Oracle:system:manager
+207. Oracle - Oracle:sys:change_on_install
+208. Oracle - Oracle:demo:demo
+209. Oracle - Oracle:oracle:oracle
+210. Oracle - Oracle:sys:sys
+211. Oracle - Personal Oracle (Multi):PO8:PO8
+212. Oracle - Oracle:DIP:DIP
+213. Oracle - Oracle:EXFSYS:EXFSYS
+214. Oracle - WebLogic:weblogic:weblogic
+215. Oracle - Database:admin:welcome
+216. Oracle - Oracle BPEL Process Manager:bpel:bpel
+217. Oracle - WebLogic (HTTP):system:password
+218. Oracle - WebLogic (HTTP):weblogic:weblogic
+219. Oracle - Exadata:ilom-admin:ilom-admin
+220. Oracle - Exadata:ilom-operator:ilom-operator
+221. Oracle - Exadata:nm2user:nm2user
+222. Oracle - ATG Web Commerce (HTTP):siteadmin:siteadmin
+223. Oracle - Dynamo Administration UI (HTTP):admin:admin
+224. Oracle - APEX (HTTP):oracle:oracle
+225. Oracle - Sun Java System Access Manager (HTTP):admin:adminadmin
+1. Leading Edge - PC BIOS (Console):[no user needed]:MASTER
+1. Claris - At-Ease:(none):familymacintosh
+1. Motive - Chorus:admin:isee
+1. Trintech - eAcquirer:t3admin:Trintech
+1. USRobotics - Wireless ADSL Router (HTTP):admin:admin
+1. Snap Appliance - Snap Appliance (HTTPS):admin:admin
+1. Packard Bell - PC BIOS (Console):[no user needed]:bell9
+1. Open Source Point of Sale - Open Source Point of Sale (HTTP):admin:pointofsale
+1. Pollsafe - Pollsafe (MODEM):SMDR:SECONDARY
+1. Quantex - PC BIOS (Console):[no user needed]:teX1
+2. Quantex - PC BIOS (Console):[no user needed]:xljlbj
+1. F5 - BIG-IP:root:default
+2. F5 - BIG-IP (HTTP):admin:admin
+1. Inova - ONT4BKP:iclock:timely
+1. AirLink Plus - RTW026 (HTTP):(none):admin
+1. Check Point - Interspect 210 (SSH/Console/Serial):admin:admin
+2. Check Point - Interspect 210N (SSH/Console/Serial):admin:admin
+3. Check Point - Interspect 410 (SSH/Console/Serial):admin:admin
+4. Check Point - Interspect 610 (SSH/Console/Serial):admin:admin
+5. Check Point - Interspect 610S (SSH/Console/Serial):admin:admin
+6. Check Point - SG R70 (HTTP):admin:adminadmin
+1. Ducati Motor Holding - Diavel (Console):(none):Last 4 digits of VIN
+1. Barracuda - SSL VPN (Console/HTTP):admin:admin
+2. Barracuda - SSL VPN (HTTP):ssladmin:ssladmin
+1. Thecus Tech - N5200 (HTTP):admin:admin
+1. Mandarin Library Automation - Mandarin M3:admin:boca raton
+1. Surecom - Unknown:admin:surecom
+2. Surecom - Wireless Broadband Router 11Mbps:admin:admin
+1. Microcom - Unknown:admin:superuser
+2. Microcom - ADSL Routers:admin:epicrouter
+3. Microcom - ADSL Routers:user:password
+1. Packeteer - Packetshaper (Console):[no user needed]:touchpwd=
+1. Apple - iPhone:root:alpine
+2. Apple - iPhone:mobile:dottie
+1. NICE Systems Ltd. - NICELog:Nice-admin:nicecti
+2. NICE Systems Ltd. - NICELog:Administrator:nicecti
+1. Tegile - Zebi Array:admin:tegile
+1. Pandatel - EMUX:admin:admin
+1. Sourcefire - RNA Sensor (HTTP):admin:password
+2. Sourcefire - RNA Sensor (SSH/Console):root:password
+1. MyioSoft - EasyNews:demo:demo
+1. Brother - ql580N:admin:access
+1. Adtech - AX4000:root:ax400
+1. Webmin - Webmin (HTTP):admin:hp.com
+1. Cyberoam - Multiple (HTTP):admin:admin
+2. Cyberoam - iView (HTTP):admin:admin
+3. Cyberoam - iView (SSH):root:admin
+1. HP - MSA2000 G3:admin:!admin
+1. Linksys - DSL (Telnet):[no user needed]:admin
+2. Linksys - WAP Router  (HTTP):(blank):admin
+3. Linksys - ADSL Router:(none):epicrouter
+4. Linksys - Wireless Router:(none):admin
+5. Linksys - WET11:(none):admin
+6. Linksys - WET54G:(none):admin
+7. Linksys - WAP11:admin:admin
+8. Linksys - BEFW11S4:(none):admin
+9. Linksys - WAG54G:admin:admin
+10. Linksys - WCG200:(none):admin
+11. Linksys - SRW224:admin:(none)
+12. Linksys - PSUS4:admin:admin
+13. Linksys - WAP54G:(blank):admin
+14. Linksys - WRT54GL:admin:admin
+15. Linksys - EA2700 (HTTP):admin:admin
+1. Magento - Go (HTTP):admin:123123
+1. NewMedia-NET GmbH - DD-WRT (HTTP):root:admin
+1. Livingston - IRX Router (Telnet):!root:(none)
+2. Livingston - Livingston Portmaster 3 (Telnet):!root:(none)
+3. Livingston - Officerouter (Telnet):!root:(none)
+1. CGI World - Poll It (HTTP):[no user needed]:protection
+1. Biodata - BIGfire:(none):Babylon
+2. Biodata - Babylon:(none):Babylon
+1. SMC - Barricade Router:Admin:Barricade
+2. SMC - Barricade Router:(none):0000
+3. SMC - Barricade Router:(none):smcadmin
+4. SMC - Barricade Router (wireless):(none):(none)
+5. SMC - SMC2652W:default:WLAN_AP
+6. SMC - SMC2804WBR:admin:smcadmin
+7. SMC - SMC7904WBRA:(none):smcadmin
+1. Fastwire - Fastwire Bank Transfer:fastwire:fw
+1. Google - Urchin (HTTPS):admin:urchin
+1. Compualynx - Cmail Server (Multi):administrator:asecret
+2. Compualynx - Cproxy Server (Multi):administrator:asecret
+3. Compualynx - SCM (Multi):administrator:asecret
+1. Dallas Semiconductors - TINI embedded JAVA Module (Telnet):root:tini
+1. Netasq - Mfilter M100, M300, M1000 and M3000 (SSH, HTTP):admin:admin
+1. Sitecore Corporation - Sitecore CMS (HTTP):admin:b
+2. Sitecore Corporation - Sitecore CMS (HTTP):Audrey:a
+3. Sitecore Corporation - Sitecore CMS (HTTP):Bill:b
+4. Sitecore Corporation - Sitecore CMS (HTTP):Denny:d
+5. Sitecore Corporation - Sitecore CMS (HTTP):Lonnie:l
+6. Sitecore Corporation - Sitecore CMS (HTTP):Minnie:m
+1. VoiceGenie Technologies - VoiceGenie:pw:pw
+1. Questra Corporation - IDM Application Suite (HTTP):questra:questra
+2. Questra Corporation - IDM Application Suite (HTTP):guest:guest
+1. Mediant - e Branch Survivable 1000B (HTTP):Admin:Admin
+1. Mantis - Mantis:administrator:root
+1. Tandberg - Gatekeeper:admin:TANDBERG
+2. Tandberg - Border Controller  (Telnet/SSH/HTTP):admin:TANDBERG
+3. Tandberg - Vision:(none):GWrv
+4. Tandberg - Codec (HTTP/telnet/ssh):admin:(none)
+5. Tandberg - Video Communication Server (ssh):root:TANDBERG
+1. MikroTik - Routers (HTTP):admin:(none)
+1. Infrant - ReadyNAS (HTTP):admin:infrant1
+1. PHPReactor - PHPReactor (HTTP):core:phpreactor
+1. Juniper - Peribit:admin:peribit
+2. Juniper - Peribit WX:admin:netscreen
+3. Juniper - DX:admin:netscreen
+4. Juniper - DX:redline:redline
+5. Juniper - Netscreen:netscreen:netscreen
+6. Juniper - Junos Space (SSH):admin:abc123
+7. Juniper - Junos Space (HTTP):super:juniper123
+1. EZPhotoSales - EZPhotoSales (HTTP):admin:admin
+1. RCA - DCW615R:(none):admin
+1. Rodopi - Unknown:Rodopi:Rodopi
+1. glFtpD - glFtpD (Console):glftpd:glftpd
+1. Asante - FM2008 (Telnet):superuser:asante
+1. JetWay - PC BIOS (Console):[no user needed]:spooml
+1. Innovaphone - IP 400:admin:ip400
+2. Innovaphone - IP 3000:admin:ip3000
+3. Innovaphone - IP 21:admin:ip21
+4. Innovaphone - IP 20:admin:ip20
+5. Innovaphone - IP 305:admin:ip305Beheer
+1. phpMyAdmin - phpMyAdmin (HTTP):root:(none)
+1. RapidStream - RapidStream Appliances (Multi):rsadmin:(none)
+1. Brocade - Fabric OS:root:fibranne
+2. Brocade - Fabric OS:admin:password
+3. Brocade - Silkworm:admin:brocade1
+1. Sony - SNC-RZ30 Network Camera:admin:admin
+1. IntelliTouch - VoIP Broadband Telephone Deskset (HTTP/Phone):administrator:1234
+1. Develcon - Orbitor Default Console:[no user needed]:BRIDGE
+2. Develcon - Orbitor Default Console:[no user needed]:password
+1. Firebird Project - Firebird:SYSDBA:masterkey
+1. POWERLOGIC - EGX:Administrator:Gateway
+1. Cyclades - Cyclades-TS800 (telnet/ssh/web):root:(none)
+2. Cyclades - Cyclades-TS800 (web):root:tslinux
+3. Cyclades - PR-1000:super:surt
+1. Cobalt - Unknown:admin:admin
+2. Cobalt - RaQ Qube:admin:admin
+1. Extreme Networks - Alpine:admin:(none)
+2. Extreme Networks - BlackDiamond:admin:(none)
+3. Extreme Networks - Summit:admin:(none)
+1. Prestige - 650:admin:1234
+1. Zenith - PC BIOS (Console):[no user needed]:3098z
+2. Zenith - PC BIOS (Console):[no user needed]:Zenith
+1. Enox - PC BIOS (Console):[no user needed]:xo11nE
+1. Kronos - Workforce Central (HTTP):SuperUser:kronites
+1. Mole - Mole2 (HTTP):admin:admin
+1. AIRAYA Corp - AIRAYA WirelessGRID:Airaya:Airaya
+1. LGIC - Goldstream:LR-ISDN:LR-ISDN
+1. Lantronics - Lantronics Terminal Server (TCP 7000):[no user needed]:access
+2. Lantronics - Lantronics Terminal Server (TCP 7000):[no user needed]:system
+1. MP3Mystic - MP3Mystic (HTTP):admin:mp3mystic
+1. Atlassian - Crowd:crowd­-openid-­server:password
+2. Atlassian - Crowd:Crowd:password
+3. Atlassian - Crowd:Demo:password
+4. Atlassian - Crowd:Username:password
+1. Gandalf - XMUX:(none):gandalf
+2. Gandalf - XMUX:(none):console
+3. Gandalf - XMUX:(none):system
+4. Gandalf - XMUX:(none):xmux
+1. Lucent - System 75 (Multi):pw:pwpw
+2. Lucent - System 75 (Multi):sysadm:sysadmpw
+3. Lucent - System 75 (Multi):sysadm:admpw
+4. Lucent - System 75 (Multi):sysadm:syspw
+5. Lucent - System 75 (Multi):bciim:bciimpw
+6. Lucent - System 75 (Multi):bcim:bcimpw
+7. Lucent - System 75 (Multi):bcms:bcmspw
+8. Lucent - System 75 (Multi):bcnas:bcnaspw
+9. Lucent - System 75 (Multi):blue:bluepw
+10. Lucent - System 75 (Multi):browse:browsepw
+11. Lucent - System 75 (Multi):browse:looker
+12. Lucent - System 75 (Multi):craft:craft
+13. Lucent - System 75 (Multi):craft:craftpw
+14. Lucent - System 75 (Multi):cust:custpw
+15. Lucent - System 75 (Multi):enquiry:enquirypw
+16. Lucent - System 75 (Multi):field:support
+17. Lucent - System 75 (Multi):inads:indspw
+18. Lucent - System 75 (Multi):inads:inads
+19. Lucent - System 75 (Multi):init:initpw
+20. Lucent - System 75 (Multi):locate:locatepw
+21. Lucent - System 75 (Multi):maint:maintpw
+22. Lucent - System 75 (Multi):maint:rwmaint
+23. Lucent - System 75 (Multi):nms:nmspw
+24. Lucent - System 75 (Multi):rcust:rcustpw
+25. Lucent - System 75 (Multi):support:supportpw
+26. Lucent - System 75 (Multi):tech:field
+27. Lucent - B-STDX9000:(any 3 chars):cascade
+1. SolarWinds - Serv-U (Multiple):LocalAdministrator:#l@$ak#.lk;0@P
+2. SolarWinds - Web Help Desk:whd:whd
+1. Borland - Interbase:(blank):(none)
+2. Borland - Interbase:politically:correct
+1. Yuxin - IP Phone (HTTP):User:1234
+2. Yuxin - IP Phone (HTTP):User:19750407
+1. Michiel - PHPlist (HTTP):admin:phplist
+1. Pikatel - All:DSL:DSL
+1. Cayman - DSL Router:admin:(none)
+2. Cayman - DSL Router:admin:(serial number)
+1. Blitzz Technologies - BWA711 (HTTP):admin:admin
+1. AmpJuke - AmpJuke (HTTP):admin:pass
+1. Lantronix - SecureLinux Console Manager (SLC)  (HTTP/SSH):sysadmin:PASS
+2. Lantronix - ThinWeb Manager (MSS-VIA):(none):access
+1. Informix - Database:informix:informix
+1. Datacom - BSASX/101:[no user needed]:letmein
+2. Datacom - NSBrowse (Multi):sysadm:sysadm
+1. Conexant - Router:admin:epicrouter
+2. Conexant - Router:admin:amigosw1
+3. Conexant - Router:admin:password
+4. Conexant - Router:admin:conexant
+1. Aironet - (All):(blank):(none)
+1. Davolink - DV2020:user:user
+1. Ramp Networks - WebRamp:wradmin:trancell
+1. Securicor3NET - Cezanne:manager:friend
+1. OpenMarket - Content Server (HTTP):Coco:hello
+2. OpenMarket - Content Server (HTTP):Bobo:hello
+3. OpenMarket - Content Server (HTTP):Flo:hello
+4. OpenMarket - Content Server (HTTP):Joe:hello
+5. OpenMarket - Content Server (HTTP):Moe:hello
+6. OpenMarket - Content Server (HTTP):admin:demo
+7. OpenMarket - Content Server (HTTP):user_analyst:demo
+8. OpenMarket - Content Server (HTTP):user_approver:demo
+9. OpenMarket - Content Server (HTTP):user_author:demo
+10. OpenMarket - Content Server (HTTP):user_checker:demo
+11. OpenMarket - Content Server (HTTP):user_designer:demo
+12. OpenMarket - Content Server (HTTP):user_editor:demo
+13. OpenMarket - Content Server (HTTP):user_expert:demo
+14. OpenMarket - Content Server (HTTP):user_marketer:demo
+15. OpenMarket - Content Server (HTTP):user_pricer:demo
+16. OpenMarket - Content Server (HTTP):user_publisher:demo
+1. Unex - NexIP Routers:(none):password
+1. Control4 - Home Theater Controller AVMHTC1B (Telnet):(none):ducati900ss
+2. Control4 - Home Theater Controller AVMHTC1B (Telnet):root:t0talc0ntr0l4!
+1. Inventel Wanadoo - LiveBox D34A:Admin:Admin
+1. Lindsay Electronics - Sentinel-AMT:ADMINISTRATOR:SENTINEL
+2. Lindsay Electronics - Sentinel-AMT:SENTINEL:SENTINEL
+1. Optivision - Nac 3000:root:mpegvideo
+1. NSI - vmXfw:root:nsi
+1. Globespan Virata - GS8100:DSL:DSL
+1. QualiTeam - X-Cart:master:master
+1. Arris - Touchstone Gateway (HTTP):admin:password
+1. VPASP - VP-ASP Shopping Cart (HTTP):vpasp:vpasp
+2. VPASP - VP-ASP Shopping Cart (HTTP):admin:admin
+1. Seyeon Technology Co., Ltd - FlexWATCH (Multiple):root:root
+1. Westell - Wirespeed:admin:password
+2. Westell - Wirespeed:admin:sysAdmin
+3. Westell - Router:admin:password
+1. Ascend - Router (Telnet):[no user needed]:ascend
+1. Oleg Khabarov - Comfy CMS (HTTP):username:password
+1. Longshine - isscfg (HTTP):admin:0
+1. Safecom - Router:admin:epicrouter
+1. Janitza - UMG 508 (FTP):admin:Janitza
+2. Janitza - UMG 508 (FTP):user:Janitza
+3. Janitza - UMG 508 (FTP):guest:Janitza
+4. Janitza - UMG 508:Homepage Password:0th
+1. Groupee, Inc. - Ultimate Bulletin Board (HTTP):Admin5:4tugboat
+1. IRC - IRC Daemon (IRC):[no user needed]:FOOBAR
+1. Freetech - PC BIOS (Console):[no user needed]:Posterie
+1. UNIX - Generic (Multi):adm:adm
+2. UNIX - Generic (Multi):adm:(none)
+3. UNIX - Generic (Multi):admin:admin
+4. UNIX - Generic (Multi):administrator:administrator
+5. UNIX - Generic (Multi):administrator:(none)
+6. UNIX - Generic (Multi):anon:anon
+7. UNIX - Generic (Multi):bbs:bbs
+8. UNIX - Generic (Multi):bbs:(none)
+9. UNIX - Generic (Multi):bin:sys
+10. UNIX - Generic (Multi):checkfs:checkfs
+11. UNIX - Generic (Multi):checkfsys:checkfsys
+12. UNIX - Generic (Multi):checksys:checksys
+13. UNIX - Generic (Multi):daemon:daemon
+14. UNIX - Generic (Multi):daemon:(none)
+15. UNIX - Generic (Multi):demo:demo
+16. UNIX - Generic (Multi):demo:(none)
+17. UNIX - Generic (Multi):demos:demos
+18. UNIX - Generic (Multi):demos:(none)
+19. UNIX - Generic (Multi):dni:(none)
+20. UNIX - Generic (Multi):dni:dni
+21. UNIX - Generic (Multi):fal:(none)
+22. UNIX - Generic (Multi):fal:fal
+23. UNIX - Generic (Multi):fax:(none)
+24. UNIX - Generic (Multi):fax:fax
+25. UNIX - Generic (Multi):ftp:(none)
+26. UNIX - Generic (Multi):ftp:ftp
+27. UNIX - Generic (Multi):games:games
+28. UNIX - Generic (Multi):games:(none)
+29. UNIX - Generic (Multi):gopher:gopher
+30. UNIX - Generic (Multi):gropher:(none)
+31. UNIX - Generic (Multi):guest:guest
+32. UNIX - Generic (Multi):guest:guestgue
+33. UNIX - Generic (Multi):guest:(none)
+34. UNIX - Generic (Multi):halt:halt
+35. UNIX - Generic (Multi):halt:(none)
+36. UNIX - Generic (Multi):informix:informix
+37. UNIX - Generic (Multi):install:install
+38. UNIX - Generic (Multi):lp:lp
+39. UNIX - Generic (Multi):lp:bin
+40. UNIX - Generic (Multi):lp:lineprin
+41. UNIX - Generic (Multi):lp:(none)
+42. UNIX - Generic (Multi):lpadm:lpadm
+43. UNIX - Generic (Multi):lpadmin:lpadmin
+44. UNIX - Generic (Multi):lynx:lynx
+45. UNIX - Generic (Multi):lynx:(none)
+46. UNIX - Generic (Multi):mail:(none)
+47. UNIX - Generic (Multi):mail:mail
+48. UNIX - Generic (Multi):man:man
+49. UNIX - Generic (Multi):man:(none)
+50. UNIX - Generic (Multi):me:(none)
+51. UNIX - Generic (Multi):me:me
+52. UNIX - Generic (Multi):mountfs:mountfs
+53. UNIX - Generic (Multi):mountfsys:mountfsys
+54. UNIX - Generic (Multi):mountsys:mountsys
+55. UNIX - Generic (Multi):news:news
+56. UNIX - Generic (Multi):news:(none)
+57. UNIX - Generic (Multi):nobody:(none)
+58. UNIX - Generic (Multi):nobody:nobody
+59. UNIX - Generic (Multi):nuucp:(none)
+60. UNIX - Generic (Multi):operator:operator
+61. UNIX - Generic (Multi):operator:(none)
+62. UNIX - Generic (Multi):oracle:(none)
+63. UNIX - Generic (Multi):postmaster:postmast
+64. UNIX - Generic (Multi):postmaster:(none)
+65. UNIX - Generic (Multi):powerdown:powerdown
+66. UNIX - Generic (Multi):rje:rje
+67. UNIX - Generic (Multi):root:root
+68. UNIX - Generic (Multi):root:(none)
+69. UNIX - Generic (Multi):setup:setup
+70. UNIX - Generic (Multi):shutdown:shutdown
+71. UNIX - Generic (Multi):shutdown:(none)
+72. UNIX - Generic (Multi):sync:sync
+73. UNIX - Generic (Multi):sync:(none)
+74. UNIX - Generic (Multi):sys:sys
+75. UNIX - Generic (Multi):sys:system
+76. UNIX - Generic (Multi):sys:bin
+77. UNIX - Generic (Multi):sysadm:sysadm
+78. UNIX - Generic (Multi):sysadm:admin
+79. UNIX - Generic (Multi):sysadmin:sysadmin
+80. UNIX - Generic (Multi):sysbin:sysbin
+81. UNIX - Generic (Multi):system_admin:(none)
+82. UNIX - Generic (Multi):system_admin:system_admin
+83. UNIX - Generic (Multi):trouble:trouble
+84. UNIX - Generic (Multi):umountfs:umountfs
+85. UNIX - Generic (Multi):umountfsys:umountfsys
+86. UNIX - Generic (Multi):umountsys:umountsys
+87. UNIX - Generic (Multi):unix:unix
+88. UNIX - Generic (Multi):user:user
+89. UNIX - Generic (Multi):uucp:uucp
+90. UNIX - Generic (Multi):uucpadm:uucpadm
+91. UNIX - Generic (Multi):web:(none)
+92. UNIX - Generic (Multi):web:web
+93. UNIX - Generic (Multi):webmaster:webmaster
+94. UNIX - Generic (Multi):webmaster:(none)
+95. UNIX - Generic (Multi):www:(none)
+96. UNIX - Generic (Multi):www:www
+97. UNIX - Unix (TELNET):service:smile
+1. FatWire - Analytics (HTTP):fwadmin:xceladmin
+2. FatWire - Analytics (HTTP):firstsite:firstsite
+1. TMC - PC BIOS (Console):[no user needed]:BIGO
+1. AddPac Technology - AP2120 (HTTP):root:router
+1. Ricoh - Aficio:admin:(none)
+2. Ricoh - Afico 3025:admin:(none)
+3. Ricoh - Aficio 2045e:admin:password
+4. Ricoh - NRG DSm645 (HTTP):admin:password
+5. Ricoh - Aficio MP printers (multiple):admin:(none)
+6. Ricoh - MP 2550 printer:admin:no password
+1. Seagull Scientific - Track'Em:ADMIN:admin
+2. Seagull Scientific - Track'Em:USER:USER
+1. NetWin - WebNews (HTTP):testweb:newstest
+2. NetWin - WebNews (HTTP):alwn3845:imaptest
+3. NetWin - WebNews (HTTP):alwi3845:wtest3452
+4. NetWin - WebNews (HTTP):testweb2:wtest4879
+1. Ceragon Networks - FibeAir (Multiple):root:tooridu
+1. Prime - PrimeOS (Multi):dos:dos
+2. Prime - PrimeOS (Multi):fam:fam
+3. Prime - PrimeOS (Multi):maint:maint
+4. Prime - PrimeOS (Multi):prime:primeos
+5. Prime - PrimeOS (Multi):primeos:prime
+6. Prime - PrimeOS (Multi):primeos:primeos
+7. Prime - PrimeOS (Multi):guest:guest
+8. Prime - PrimeOS (Multi):guest1:guest
+9. Prime - PrimeOS (Multi):guest1:guest1
+10. Prime - PrimeOS (Multi):mail:mail
+11. Prime - PrimeOS (Multi):mfd:mfd
+12. Prime - PrimeOS (Multi):netlink:netlink
+13. Prime - PrimeOS (Multi):prime:prime
+14. Prime - PrimeOS (Multi):primenet:primenet
+15. Prime - PrimeOS (Multi):primenet:primeos
+16. Prime - PrimeOS (Multi):primos_cs:primos
+17. Prime - PrimeOS (Multi):primos_cs:prime
+18. Prime - PrimeOS (Multi):system:prime
+19. Prime - PrimeOS (Multi):system:system
+20. Prime - PrimeOS (Multi):tele:tele
+21. Prime - PrimeOS (Multi):test:test
+1. Verifone - Verifone Junior:(none):166816
+1. Efficient - Speedstream DSL (Telnet):[no user needed]:admin
+2. Efficient - Speedstream (HTTP, Telnet):(none):(none)
+3. Efficient - Speedstream (HTTP, Telnet):(none):(none)
+4. Efficient - Speedstream (HTTP, Telnet):login:admin
+5. Efficient - Speedstream (HTTP, Telnet):superuser:admin
+1. Audioactive - MPEG Realtime Encoders (Telnet):[no user needed]:telos
+1. PRTG - PRTG Network Monitor:prtgadmin:prtgadmin
+1. Spider Systems - M250:(blank):hello
+1. Adaptec - RAID Controller:Administrator:adaptec
+1. LANSA - LANSA :WEBADM:password
+2. LANSA - aXes (HTTP):admin:admin
+3. LANSA - aXes (HTTP):dev:dev
+1. OvisLink Canada Inc. - SHDSL Modem:root:root
+2. OvisLink Canada Inc. - SHDSL Modem:user:user
+1. Daewoo - PC BIOS (Console):[no user needed]:Daewuu
+1. IBM - AIX (Multi):guest:(none)
+2. IBM - AIX (Multi):guest:guest
+3. IBM - Ascend OEM Routers (Telnet):[no user needed]:ascend
+4. IBM - CICS:SYSA:SYSA
+5. IBM - CICS:PROG:PROG
+6. IBM - CICS:OPER:OPER
+7. IBM - CICS:$SRV:$SRV
+8. IBM - CICS:VCSRV:VCSRV
+9. IBM - CICS:PRODCICS:PRODCICS
+10. IBM - CICS:POST:BASE
+11. IBM - CICS:CICSUSER:CISSUS
+12. IBM - CICS:DBDCCICS:DBDCCIC
+13. IBM - CICS:FORSE:FORSE
+14. IBM - Fibre Switch:admin:password
+15. IBM - OS/400 (Multi):QSRV:QSRV
+16. IBM - OS/400 (Multi):QSRV:11111111
+17. IBM - OS/400 (Multi):QSRV:22222222
+18. IBM - OS/400 (Multi):user:USERP
+19. IBM - OS/400 (Multi):sedacm:secacm
+20. IBM - OS/400 (Multi):sysopr:sysopr
+21. IBM - OS/400 (Multi):ibm:password
+22. IBM - OS/400 (Multi):ibm:2222
+23. IBM - OS/400 (Multi):ibm:service
+24. IBM - OS/400 (Multi):qpgmr:qpgmr
+25. IBM - OS/400 (Multi):qsecofr:qsecofr
+26. IBM - OS/400 (Multi):qsecofr:11111111
+27. IBM - OS/400 (Multi):qsecofr:22222222
+28. IBM - OS/400 (Multi):qserv:qserv
+29. IBM - OS/400 (Multi):qsvr:qsvr
+30. IBM - OS/400 (Multi):quser:quser
+31. IBM - OS/400 (Multi):qsrv:qsrv
+32. IBM - OS/400 (Multi):qsrvbas:qsrvbas
+33. IBM - OS/400 (Multi):11111111:11111111
+34. IBM - OS/400 (Multi):22222222:22222222
+35. IBM - OS/400 (Multi):qsvr:ibmcel
+36. IBM - OS/400 (Multi):qsysopr:qsysopr
+37. IBM - OS/400 (Multi):secofr:secofr
+38. IBM - PC BIOS (Console):[no user needed]:IBM
+39. IBM - PC BIOS (Console):[no user needed]:MBIU0
+40. IBM - PC BIOS (Console):[no user needed]:sertafu
+43. IBM - RACF:IBMUSER:SYS1
+44. IBM - Tivoli (HTTP):admin:admin
+45. IBM - TotalStorage (HTTP):storwatch:specialist
+46. IBM - VM/CMS:MAINT:MAINT
+47. IBM - VM/CMS:OPERATIONS:OPERATIONS
+48. IBM - VM/CMS:OPERATNS:OPERATNS
+49. IBM - VM/CMS:CMSBATCH:CMSBATCH
+50. IBM - VM/CMS:VTAM:VTAM
+51. IBM - VM/CMS:Operator:Operator
+52. IBM - VM/CMS (Multi):$ALOC$:(none)
+53. IBM - VM/CMS (Multi):ADMIN:(none)
+54. IBM - VM/CMS (Multi):AP2SVP:(none)
+55. IBM - VM/CMS (Multi):APL2PP:(none)
+56. IBM - VM/CMS (Multi):AUTOLOG1:(none)
+57. IBM - VM/CMS (Multi):BATCH:(none)
+58. IBM - VM/CMS (Multi):BATCH1:(none)
+59. IBM - VM/CMS (Multi):BATCH2:(none)
+60. IBM - VM/CMS (Multi):CCC:(none)
+61. IBM - VM/CMS (Multi):CMSBATCH:(none)
+62. IBM - VM/CMS (Multi):CMSUSER:(none)
+63. IBM - VM/CMS (Multi):CPNUC:(none)
+64. IBM - VM/CMS (Multi):CPRM:(none)
+65. IBM - VM/CMS (Multi):CSPUSER:(none)
+66. IBM - VM/CMS (Multi):CVIEW:(none)
+67. IBM - VM/CMS (Multi):DATAMOVE:(none)
+68. IBM - VM/CMS (Multi):DEMO1:(none)
+69. IBM - VM/CMS (Multi):DEMO2:(none)
+70. IBM - VM/CMS (Multi):DEMO3:(none)
+71. IBM - VM/CMS (Multi):DEMO4:(none)
+72. IBM - VM/CMS (Multi):DIRECT:(none)
+73. IBM - VM/CMS (Multi):DIRMAINT:(none)
+74. IBM - VM/CMS (Multi):DISKCNT:(none)
+75. IBM - VM/CMS (Multi):EREP:(none)
+76. IBM - VM/CMS (Multi):FSFADMIN:(none)
+77. IBM - VM/CMS (Multi):FSFTASK1:(none)
+78. IBM - VM/CMS (Multi):FSFTASK2:(none)
+79. IBM - VM/CMS (Multi):GCS:(none)
+80. IBM - VM/CMS (Multi):IDMS:(none)
+81. IBM - VM/CMS (Multi):IDMSSE:(none)
+82. IBM - VM/CMS (Multi):IIPS:(none)
+83. IBM - VM/CMS (Multi):IPFSERV:(none)
+84. IBM - VM/CMS (Multi):ISPVM:(none)
+85. IBM - VM/CMS (Multi):IVPM1:(none)
+86. IBM - VM/CMS (Multi):IVPM2:(none)
+87. IBM - VM/CMS (Multi):MAINT:(none)
+88. IBM - VM/CMS (Multi):MOESERV:(none)
+89. IBM - VM/CMS (Multi):NEVIEW:(none)
+90. IBM - VM/CMS (Multi):OLTSEP:(none)
+91. IBM - VM/CMS (Multi):OP1:(none)
+92. IBM - VM/CMS (Multi):OPERATNS:(none)
+93. IBM - VM/CMS (Multi):OPERATOR:(none)
+94. IBM - VM/CMS (Multi):PDMREMI:(none)
+95. IBM - VM/CMS (Multi):PENG:(none)
+96. IBM - VM/CMS (Multi):PROCAL:(none)
+97. IBM - VM/CMS (Multi):PRODBM:(none)
+98. IBM - VM/CMS (Multi):PROMAIL:(none)
+99. IBM - VM/CMS (Multi):PSFMAINT:(none)
+100. IBM - VM/CMS (Multi):PVM:(none)
+101. IBM - VM/CMS (Multi):RDM470:(none)
+102. IBM - VM/CMS (Multi):ROUTER:(none)
+103. IBM - VM/CMS (Multi):RSCS:(none)
+104. IBM - VM/CMS (Multi):RSCSV2:(none)
+105. IBM - VM/CMS (Multi):SAVSYS:(none)
+106. IBM - VM/CMS (Multi):SFCMI:(none)
+107. IBM - VM/CMS (Multi):SFCNTRL:(none)
+108. IBM - VM/CMS (Multi):SMART:(none)
+109. IBM - VM/CMS (Multi):SQLDBA:(none)
+110. IBM - VM/CMS (Multi):SQLUSER:(none)
+111. IBM - VM/CMS (Multi):SYSADMIN:(none)
+112. IBM - VM/CMS (Multi):SYSCKP:(none)
+113. IBM - VM/CMS (Multi):SYSDUMP1:(none)
+114. IBM - VM/CMS (Multi):SYSERR:(none)
+115. IBM - VM/CMS (Multi):SYSWRM:(none)
+116. IBM - VM/CMS (Multi):TDISK:(none)
+117. IBM - VM/CMS (Multi):TEMP:(none)
+118. IBM - VM/CMS (Multi):TSAFVM:(none)
+119. IBM - VM/CMS (Multi):VASTEST:(none)
+120. IBM - VM/CMS (Multi):VM3812:(none)
+121. IBM - VM/CMS (Multi):VMARCH:(none)
+122. IBM - VM/CMS (Multi):VMASMON:(none)
+123. IBM - VM/CMS (Multi):VMASSYS:(none)
+124. IBM - VM/CMS (Multi):VMBACKUP:(none)
+125. IBM - VM/CMS (Multi):VMBSYSAD:(none)
+126. IBM - VM/CMS (Multi):VMMAP:(none)
+127. IBM - VM/CMS (Multi):VMTAPE:(none)
+128. IBM - VM/CMS (Multi):VMTLIBR:(none)
+129. IBM - VM/CMS (Multi):VMUTIL:(none)
+130. IBM - VM/CMS (Multi):VSEIPO:(none)
+131. IBM - VM/CMS (Multi):VSEMAINT:(none)
+132. IBM - VM/CMS (Multi):VSEMAN:(none)
+133. IBM - VM/CMS (Multi):VTAM:(none)
+134. IBM - VM/CMS (Multi):VTAMUSER:(none)
+135. IBM - DB2:db2fenc1:db2fenc1
+136. IBM - Domino Go:webadmin:webibm
+137. IBM - Sterling Managed File Transfer (HTTP):fg_sysadmin:password
+138. IBM - Bladecenter Advanced Management Module:USERID:PASSW0RD
+139. IBM - HMC:hscroot:abc123
+140. IBM - HMC:root:passw0rd
+141. IBM - DB2:db2inst1:db2inst1
+142. IBM - SONAS (Serial Over Lan):USERID:PASSWORD
+143. IBM - Integrated Management Module (IMM) (HTTP):USERID:PASSW0RD
+1. PLANET Technology Corp. - FGSW-2402RS (Serial):admin:ISPMODE
+2. PLANET Technology Corp. - FGSW-2402RS (Serial):admin:[^_^]
+1. DuPont - Digital Water Proofer:root:par0t
+1. Parallels - Plesk (HTTP):admin:setup
+1. Powerchute - UPS:pwrchute:pwrchute
+1. Netscreen - IDP:admin:netscreen
+2. Netscreen - Netscreen (Telnet):netscreen:netscreen
+1. Muze - Ariadne (HTTP):admin:muze
+1. Vextrec Technology - PC BIOS (Console):[no user needed]:Vextrex
+1. Ascom - Ascotel:(none):3ascotel
+1. Tridium - Niagara:(system passphrase):niagara
+2. Tridium - AX:tridium:niagara
+1. Sierra Wireless - ACEmanager (HTTP):user:12345
+1. Deerfield - WorldClient and MDaemon:MDaemon:MServer
+1. Samba - SWAT (HTTP):Any:Any
+1. Netscape - Netscape Enterprise Server (HTTP):admin:admin
+1. Citrix Systems, Inc. - Access Gateway (HTTP):root:rootadmin
+2. Citrix Systems, Inc. - Access Gateway:nsroot:nsroot
+1. Wanco, Inc. - NTCIP Message Sign Software:(none):Guest
+2. Wanco, Inc. - NTCIP Message Sign Software:(none):Public
+3. Wanco, Inc. - NTCIP Message Sign Software:(none):ABCD
+4. Wanco, Inc. - NTCIP Message Sign Software:(none):NTCIP
+1. Redcreek Communications - Ravlin VPN:[no user needed]:1234
+2. Redcreek Communications - Ravlin VPN (SNMP):[no user needed]:private
+1. U.S. Robotics - TOTALswitch:none:amber
+2. U.S. Robotics - USR8054:admin:(none)
+3. U.S. Robotics - USR5450:admin:(none)
+1. Sony Ericsson - T290i, T68i:(none):0000
+1. Nortel - Meridian Link/CCR/Max:disttech:disttech
+2. Nortel - Accelar (Passport) 1000 series routing switches (Multi):ro:ro
+3. Nortel - Accelar (Passport) 1000 series routing switches (Multi):rw:rw
+4. Nortel - Accelar (Passport) 1000 series routing switches (Multi):rwa:rwa
+5. Nortel - Accelar (Passport) 1000 series routing switches (Multi):l2:l2
+6. Nortel - Accelar (Passport) 1000 series routing switches (Multi):l3:l3
+7. Nortel - BCM:administrator:PlsChgMe!
+8. Nortel - BCM:supervisor:visor
+9. Nortel - Contivity Switch (HTTP):admin:setup
+10. Nortel - Extranet Switches (Multi):admin:setup
+11. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):ccrusr:ccrusr
+12. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):service:smile
+13. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):mlusr:mlusr
+14. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):maint:maint
+15. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):trmcnfg:trmcnfg
+16. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):disttech:4tas
+17. Nortel - Meridian Link/CCR/Max (TELNET/MODEM):disttech:etas
+18. Nortel - Meridian PBX (Serial):login:0000
+19. Nortel - Meridian PBX (Serial):spcl:0000
+20. Nortel - Meridian PBX (Serial):login:0
+21. Nortel - Meridian PBX (Serial):spcl:0
+22. Nortel - Remote Office 9150 (Client):admin:root
+23. Nortel - Symposium:sysadmin:nortel
+24. Nortel - BayStack:(none):secure
+25. Nortel - BayStack:(none):(none)
+26. Nortel - Meridian Mail (AX in serial):admin:admin
+27. Nortel - Meridian Mail (AX in serial):system:adminpwd
+28. Nortel - MIRAN (serial):admin:admin000
+29. Nortel - MIRAN:user:user0000
+30. Nortel - MIRAN:admin:admin000
+31. Nortel - MIRAN:distrib:distrib0
+32. Nortel - MIPCD:user:(none)
+33. Nortel - MIPCD:(none):(none)
+34. Nortel - MIPCD:user:user
+36. Nortel - MIPCD (FTP):user:user
+37. Nortel - MIPCD (HTTP):admin:admin
+38. Nortel - Passport 8000 Series Switch (Command Line):(none):ro
+39. Nortel - Passport 8000 Series Switch (Command Line):(none):rw
+40. Nortel - Passport 8000 Series Switch (Command Line):(none):rwa
+41. Nortel - Passport 8000 Series Switch (Command Line):(none):l1
+42. Nortel - Passport 8000 Series Switch (Command Line):(none):l2
+43. Nortel - Tasman:tasman:tasmannet
+44. Nortel - Meridian Integrated Conference Bridge (telnet):admin:(none)
+45. Nortel - Meridian Integrated Conference Bridge (FTP/Telnet):conferencing:admin
+46. Nortel - Meridian Integrated Conference Bridge (HTTP):admin:000000
+47. Nortel - Meridian Integrated Conference Bridge (Telnet):debug:gubed
+1. Dynalink - RTA230:userNotUsed:userNotU
+1. Hemoco Software - Lansweeper:lansweeperuser:mysecretpassword0*
+1. Samsung - Printers (SNMP):(none):s!a@m#n$p%c
+1. RNN - RNN's Guestbook (HTTP):admin:demo
+1. CyberMax - PC BIOS (Console):[no user needed]:Congress
+1. Elron - Firewall:(hostname/ipaddress):sysadmin
+1. Micronics - PC BIOS (Console):[no user needed]:dn_04rjc
+1. Foscam - FI8918/FI8918W (HTTP):admin:(none)
+1. Zyxel - Generic Routers (Telnet):[no user needed]:1234
+2. ZYXEL - Prestige 652HW-31 (HTTP):admin:1234
+3. Zyxel - Prestige (HTTP, FTP, Telnet):(none):1234
+4. ZyXEL - Prestige (HTTP):admin:1234
+5. ZyXEL - ZYAIR 4000:supervisor:supervisor
+6. ZYXEL - PRESTIGE 660HW:admin:admin
+1. Telewell - TW-EA200:admin:password
+2. Telewell - TW-EA510:admin:admin
+1. Luxon Communications - IP Phone (HTTP):administrator:19750407
+1. IQinVision - IQeye (Java Application):root:system
+1. Osicom - JETXPrint (Telnet):sysadm:sysadm
+2. Osicom - JETXPrint (Telnet):sysadm:sysadm
+3. Osicom - JETXPrint (Telnet):sysadm:sysadm
+4. Osicom - JETXPrint (Telnet):sysadm:sysadm
+5. Osicom - NETCommuter Remote Access Server (Telnet):sysadm:sysadm
+6. Osicom - NETCommuter Remote Access Server (Telnet):Manager:Manager
+7. Osicom - NETCommuter Remote Access Server (Telnet):guest:guest
+8. Osicom - NETCommuter Remote Access Server (Telnet):echo:echo
+9. Osicom - NETCommuter Remote Access Server (Telnet):debug:d.e.b.u.g
+10. Osicom - NETPrint (Telnet):sysadm:sysadm
+11. Osicom - NETPrint (Telnet):sysadm:sysadm
+12. Osicom - NETPrint (Telnet):sysadm:sysadm
+13. Osicom - NETPrint (Telnet):sysadm:sysadm
+14. Osicom - NETPrint (Telnet):Manager:Manager
+15. Osicom - NETPrint (Telnet):guest:guest
+16. Osicom - NETPrint (Telnet):echo:echo
+17. Osicom - NETPrint (Telnet):debug:d.e.b.u.g
+18. Osicom - NETPrint (Telnet):sysadm:sysadm
+19. Osicom - NETPrint (Telnet):sysadm:sysadm
+20. Osicom - NETPrint (Telnet):Manager:Manager
+21. Osicom - NETPrint (Telnet):guest:guest
+22. Osicom - NETPrint (Telnet):echo:echo
+23. Osicom - NETPrint (Telnet):debug:d.e.b.u.g
+24. Osicom - NETPrint (Telnet):sysadm:sysadm
+25. Osicom - NETPrint (Telnet):Manager:Manager
+26. Osicom - NETPrint (Telnet):guest:guest
+27. Osicom - NETPrint (Telnet):echo:echo
+28. Osicom - NETPrint (Telnet):debug:d.e.b.u.g
+29. Osicom - NETPrint (Telnet):sysadm:sysadm
+30. Osicom - NETPrint (Telnet):Manager:Manager
+31. Osicom - NETPrint (Telnet):guest:guest
+32. Osicom - NETPrint (Telnet):echo:echo
+33. Osicom - NETPrint (Telnet):debug:d.e.b.u.g
+34. Osicom - NETPrint (Telnet):sysadm:sysadm
+35. Osicom - NETPrint (Telnet):sysadm:sysadm
+36. Osicom - NETPrint (Telnet):sysadm:sysadm
+37. Osicom - NETPrint (Telnet):sysadm:sysadm
+38. Osicom - NETPrint (Telnet):sysadm:sysadm
+39. Osicom - NETPrint (Telnet):Manager:Manager
+40. Osicom - NETPrint (Telnet):guest:guest
+41. Osicom - NETPrint (Telnet):echo:echo
+42. Osicom - NETPrint (Telnet):debug:d.e.b.u.g
+43. Osicom - NETPrint (Telnet):sysadm:sysadm
+44. Osicom - NETPrint (Telnet):sysadm:sysadm
+45. Osicom - NETPrint (Telnet):sysadm:sysadm
+46. Osicom - NETPrint (Telnet):sysadm:sysadm
+47. Osicom - Osicom Plus T1/PLUS 56k (Telnet):write:private
+1. CareStream Health - Spectrum  (HTTP):KeyOperator:DV5800
+2. CareStream Health - Spectrum  (HTTP):LocalService:DV5800
+1. PBX - PBX (Generic):tech:nician
+1. Amptron - PC BIOS (Console):[no user needed]:Polrty
+1. Sun - JavaServer:admin:admin
+2. Sun - Sun E10000 System Service Processor (Multi):ssp:ssp
+3. Sun - SunOS:root:t00lk1t
+4. Sun - SunScreen (TCP 3852):admin:admin
+5. Sun - X4200 iloms:root:changeme
+6. Sun - SPARC Enterprise X5220 Server:root:changeme
+1. Black Duck Software, Inc. - Hub (HTTP):sysadmin:blackduck
+2. Black Duck Software, Inc. - Administration Console (HTTP):admin:admin
+1. HighPOint - RAID Management Utilities (HTTP):RAID:hpt
+1. MySQL - MySQL (all versions):root:(none)
+2. MySQL - Eventum (HTTP):admin@example.com:admin
+3. MySQL - MaxDB:superdba:admin
+1. General Instruments - Cable Modem:test:test
+1. Sweex - LC000070:(none):admin
+2. Sweex - LB000020:(none):(none)
+3. Sweex - LB000021:admin:1234
+4. Sweex - LB200010:admin:1234
+5. Sweex - LB300010:admin:1234
+6. Sweex - LW050:sweex:mysweex
+7. Sweex - LW055:sweex:mysweex
+8. Sweex - LW140:(none):mysweex
+9. Sweex - LW300:sweex:mysweex
+10. Sweex - CC300010:admin:epicrouter
+11. Sweex - CD300010:admin:epicrouter
+12. Sweex - CC300011:admin:epicrouter
+13. Sweex - CD300011:admin:epicrouter
+14. Sweex - CC400010:admin:epicrouter
+15. Sweex - CD400011:admin:epicrouter
+16. Sweex - CC400020:admin:epicrouter
+17. Sweex - MO200:sweex:mysweex
+18. Sweex - MO201:sweex:mysweex
+19. Sweex - MO250:sweex:mysweex
+20. Sweex - MO251:sweex:mysweex
+21. Sweex - PR001:admin:1234
+22. Sweex - PR010:admin:1234
+23. Sweex - PR101:admin:1234
+24. Sweex - PR110:admin:1234
+25. Sweex - RO002 (HTTP):rdc123:rdc123
+1. Avaya - routers (telnet):root:root
+2. Avaya - 4602 SIP Telephone (HTTP):admin:barney
+3. Avaya - Integrated Management Database (IMD):admin:admin123
+4. Avaya - Definity:dadmin:dadmin
+5. Avaya - Intuity Audix:Craft:crftpw
+6. Avaya - Winspm:[no user needed]:Craftr4
+7. Avaya - P330 Stackable Switch (Telnet):root:root
+8. Avaya - Scopia (HTTP):admin:admin
+9. Avaya - Scopia Gateway (HTTP):admin:password
+1. Openlink - Administration Assistant (HTTP):admin:admin
+1. AWARD - PC BIOS (Console):[no user needed]:Award
+2. AWARD - PC BIOS (Console):[no user needed]:AWARD_SW
+3. AWARD - PC BIOS (Console):[no user needed]:SW_AWARD
+4. AWARD - PC BIOS (Console):[no user needed]:AWARD?SW
+5. AWARD - PC BIOS (Console):[no user needed]:lkwpeter
+6. AWARD - PC BIOS (Console):[no user needed]:j262
+7. AWARD - PC BIOS (Console):[no user needed]:j256
+8. AWARD - PC BIOS (Console):[no user needed]:?award
+9. AWARD - PC BIOS (Console):[no user needed]:1322222
+10. AWARD - PC BIOS (Console):[no user needed]:256256
+11. AWARD - PC BIOS (Console):[no user needed]:589589
+12. AWARD - PC BIOS (Console):[no user needed]:589721
+13. AWARD - PC BIOS (Console):[no user needed]:admin
+14. AWARD - PC BIOS (Console):[no user needed]:alfarome
+15. AWARD - PC BIOS (Console):[no user needed]:aLLy
+16. AWARD - PC BIOS (Console):[no user needed]:aPAf
+17. AWARD - PC BIOS (Console):[no user needed]:AWARD SW
+18. AWARD - PC BIOS (Console):[no user needed]:award.sw
+19. AWARD - PC BIOS (Console):[no user needed]:award_?
+20. AWARD - PC BIOS (Console):[no user needed]:award_ps
+21. AWARD - PC BIOS (Console):[no user needed]:AWARD_PW
+22. AWARD - PC BIOS (Console):[no user needed]:awkward
+23. AWARD - PC BIOS (Console):[no user needed]:BIOS
+24. AWARD - PC BIOS (Console):[no user needed]:biosstar
+25. AWARD - PC BIOS (Console):[no user needed]:biostar
+26. AWARD - PC BIOS (Console):[no user needed]:CONCAT
+27. AWARD - PC BIOS (Console):[no user needed]:condo
+28. AWARD - PC BIOS (Console):[no user needed]:(none)
+29. AWARD - PC BIOS (Console):[no user needed]:djonet
+30. AWARD - PC BIOS (Console):[no user needed]:efmukl
+31. AWARD - PC BIOS (Console):[no user needed]:g6PJ
+32. AWARD - PC BIOS (Console):[no user needed]:h6BB
+33. AWARD - PC BIOS (Console):[no user needed]:HELGA-S
+34. AWARD - PC BIOS (Console):[no user needed]:HEWITT RAND
+35. AWARD - PC BIOS (Console):[no user needed]:HLT
+36. AWARD - PC BIOS (Console):[no user needed]:j09F
+37. AWARD - PC BIOS (Console):[no user needed]:j322
+38. AWARD - PC BIOS (Console):[no user needed]:j64
+39. AWARD - PC BIOS (Console):[no user needed]:lkw peter
+40. AWARD - PC BIOS (Console):[no user needed]:PASSWORD
+41. AWARD - PC BIOS (Console):[no user needed]:SER
+42. AWARD - PC BIOS (Console):[no user needed]:setup
+43. AWARD - PC BIOS (Console):[no user needed]:SKY_FOX
+44. AWARD - PC BIOS (Console):[no user needed]:SWITCHES_SW
+45. AWARD - PC BIOS (Console):[no user needed]:Sxyz
+46. AWARD - PC BIOS (Console):[no user needed]:SZYX
+47. AWARD - PC BIOS (Console):[no user needed]:t0ch20x
+48. AWARD - PC BIOS (Console):[no user needed]:t0ch88
+49. AWARD - PC BIOS (Console):[no user needed]:TTPTHA
+50. AWARD - PC BIOS (Console):[no user needed]:TzqF
+51. AWARD - PC BIOS (Console):[no user needed]:wodj
+52. AWARD - PC BIOS (Console):[no user needed]:ZAAADA
+53. AWARD - PC BIOS (Console):[no user needed]:zbaaaca
+54. AWARD - PC BIOS (Console):[no user needed]:zjaaadc
+1. Honeynet Project - Honeywall (console):root:honey
+2. Honeynet Project - Honeywall (console):roo:honey
+1. Debian - Linux LILO Default (Console):[no user needed]:tatercounter2000
+1. Panasonic - Network Camera (HTTP):admin:12345
+1. Micronet - Wireless Broadband Router (HTTP):admin:admin
+1. Netcomm - NB1300:admin:password
+2. Netcomm - NB1300:user:password
+3. Netcomm - NB5580/NB5580W:(blank):admin
+1. Wireless, Inc. - WaveNet:root:rootpass
+1. Exabyte - Mag20 (FTP):anonymous:Exabyte
+1. NEC - Elite IPK (HTTP):admin:password
+1. Eaton - Network Shutdown Module:admin:admin
+2. Eaton - ePDU (HTTP):admin:admin
+1. Internet Archive - Heritrix:admin:letmein
+1. Dassault Systemes - Enovia V6:Test Everything:(none)
+1. Mike Peters - BasiliX  (SQL):bsxuser:bsxpass
+1. Splunk - Splunk (HTTP):admin:changeme
+1. Proxicast - LAN-Cell Gateway GPRS-401 (HTTP):(none):1234
+1. Webramp - Unknown:wradmin:trancell
+1. Skybox Security - Virtual Appliance (HTTP, Console):root:skyboxview
+1. PlainTree - Waveswitch:(blank):default.password
+1. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):ADVMAIL:(none)
+2. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):ADVMAIL:HP
+3. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:SUPPORT
+4. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:MGR
+5. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:SERVICE
+6. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:MANAGER
+7. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:(none)
+8. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:LOTUS
+9. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:(none)
+10. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):FIELD:HPONLY
+11. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):HELLO:MANAGER.SYS
+12. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):HELLO:MGR.SYS
+13. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):HELLO:FIELD.SUPPORT
+14. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):HELLO:OP.OPERATOR
+15. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MAIL:MAIL
+16. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MAIL:REMOTE
+17. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MAIL:TELESUP
+18. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MAIL:HPOFFICE
+19. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MAIL:MPE
+20. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:TCH
+21. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:SYS
+22. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:SECURITY
+23. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:ITF3000
+24. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:HPOFFICE
+25. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:COGNOS
+26. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MANAGER:TELESUP
+27. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGE:VESOFT
+28. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:SYS
+29. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:CAROLIAN
+30. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:VESOFT
+31. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:XLSERVER
+32. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:SECURITY
+33. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:TELESUP
+34. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPDESK
+35. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:CCC
+36. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:CNAS
+37. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:WORD
+38. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:COGNOS
+39. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:ROBELLE
+40. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPOFFICE
+41. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPONLY
+42. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPP187
+43. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPP189
+44. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:HPP196
+45. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:INTX3
+46. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:ITF3000
+47. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:NETBASE
+48. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:REGO
+49. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:RJE
+50. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):MGR:CONV
+51. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):OPERATOR:SYS
+52. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):OPERATOR:DISC
+53. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):OPERATOR:SYSTEM
+54. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):OPERATOR:SUPPORT
+55. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):OPERATOR:COGNOS
+56. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):PCUSER:SYS
+57. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):RSBCMON:SYS
+58. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):SPOOLMAN:HPOFFICE
+59. Hewlett-Packard - HP 2000/3000 MPE/xx (Multi):WP:HPOFFICE
+60. Hewlett-Packard - Vectra (Console):[no user needed]:hewlpack
+61. Hewlett-Packard - Webmin (HTTP):admin:hp.com
+62. Hewlett-Packard - Motive Chrous (HTTP):admin:isee
+63. Hewlett-Packard - iLo (HTTP):Admin:Admin
+64. Hewlett-Packard - iLo (HTTP):Oper:Oper
+65. Hewlett-Packard - HP-UX Web Server Suite:admin:hp.com
+66. Hewlett-Packard - ProcCurve MSC-5100 (Multiple):admin:admin
+67. Hewlett-Packard - Remote Insight Board  (HTTP):Administrator:The last eight digits of the serial number
+68. Hewlett-Packard - StoreOnce (SSH):HPSupport:badg3r5
+1. United Technologies Corporation - Interlogix truVision IP Camera (HTTP):admin:1234
+1. NetApp - NetCache:admin:NetCache
+2. NetApp - SANscreen (HTTP):admin:admin123
+1. Allnet - ALL129DSL:admin:admin
+1. Silex Technology - USB Device Server (Telnet/HTTP):root:(non)
+1. DVB - DVstation (HTTP, VNC):dvstation:dvst10n
+2. DVB - DVstation (SSH):root:pixmet2003
+1. ZEOS - PC BIOS (Console):[no user needed]:zeosx
+1. Silicon Graphics - IRIX (5.x):6.x:(none)
+2. Silicon Graphics - IRIX (5.x):6.x:(none)
+3. Silicon Graphics - IRIX (Multi):4Dgifts:4Dgifts
+4. Silicon Graphics - IRIX (Multi):4Dgifts:(none)
+5. Silicon Graphics - IRIX (Multi):demos:(none)
+6. Silicon Graphics - IRIX (Multi):Ezsetup:(none)
+7. Silicon Graphics - IRIX (Multi):field:field
+8. Silicon Graphics - IRIX (Multi):OutOfBox:(none)
+9. Silicon Graphics - IRIX (Multi):tour:tour
+10. Silicon Graphics - IRIX (Multi):tutor:(none)
+11. Silicon Graphics - IRIX (Multi):tutor:tutor
+1. Resumix - Resumix:root:resumix
+1. Stan Ozier - TaskFreak (HTTP):admin:(none)
+1. phpTest - phpTest (HTTP):admin:1234
+2. phpTest - phpTest (HTTP):guest:guest
+1. Overland Storage - SAN Storage (HTTP):root:Password
+1. mklencke - Forumtalk:root:blablabla
+1. Hayes - Century:system:isp
+1. Software AG - webMethods:Administrator:manage
+1. GE Security, Inc. - Integrated Configuration Tool (HTTP):install:install
+1. Geeklog - Geeklog (MySQL):username:password
+1. Veritas - Cluster Server (HTTP):admin:password
+1. Nimble - PC BIOS (Console):[no user needed]:xdfk9874t3
+1. Flowpoint - DSL (Telnet):admin:admin
+2. Flowpoint - DSL (Telnet):[no user needed]:password
+3. Flowpoint - Flowpoint/2000 ADSL (Telnet):[no user needed]:(none)
+1. SAP - Business Connector:Administrator:manage
+2. SAP - Business Connector:Developer:isdev
+3. SAP - Business Connector:Replicator:iscopy
+4. SAP - ITS:itsadmin:init
+5. SAP - SAP:SAP*:06071992
+6. SAP - SAP:SAPCPIC:admin
+7. SAP - SAP:DDIC:19920706
+8. SAP - SAP:EARLYWATCH:SUPPORT
+10. SAP - SAP:SAP*:06071992
+11. SAP - SAP:DDIC:19920706
+12. SAP - SAP:SAPCPIC:admin
+13. SAP - SAP:EARLYWATCH:SUPPORT
+14. SAP - SAP Local Database:SAPR3:SAP
+15. SAP - Visual Composer:ctb_admin:sap123
+16. SAP - xMII:xmi_demo:sap123
+17. SAP - R/3:SAP*:PASS
+18. SAP - Axis2:admin:axis2
+1. Digicraft Software - Yak! (FTP):Yak:asd123
+1. Hosting Controller - Hosting Controller (HTTP):AdvWebadmin:advcomm500349
+1. Divar - XF (HTTP):admin:(none)
+2. Divar - XF (HTTP):viewer:(none)
+1. Ericsson - Ericsson Acc:netman:netman
+1. AMX - NI Series:administrator:password
+2. AMX - NI Series:NetLinx:password
+3. AMX - IS-SPX-1000:(none):(none)
+4. AMX - Endeleo UDM-0102:(none):admin
+5. AMX - Endeleo UDM-0404:(none):admin
+6. AMX - Endeleo UDM-0808-SIG:administrator:password
+7. AMX - Environmental Controls ENV-VST-C:(none):1988
+8. AMX - CSG:admin:1988
+9. AMX - MET-ECOM/-D:admin:1988
+10. AMX - NXA-ENET8POE:admin:1988
+11. AMX - NXA-ENET24:Admin:1988
+12. AMX - NXA-ENET24:guest:guest
+13. AMX - NXA-WAP250G:admin:1988
+14. AMX - NXA-WAP1000:admin:1988
+15. AMX - NXA-WAPZD1000 (Zone Director) :admin:admin
+16. AMX - NXR-ZGW/-ZRP:Admin:1988
+17. AMX - NXR-ZGW-PRO/-ZRP-PRO:Admin:1988
+18. AMX - TVM-1600:(none):admin
+19. AMX - MAX Server:root:mozart
+20. AMX - MAX-CSD10 (HTTP):administrator:password
+21. AMX - MAX-CSE (HTTP):administrator:password
+22. AMX - V2 Server:Administrator:vision2
+1. Wim Bervoets - WIMBIOSnbsp BIOS (Console):[no user needed]:Compleri
+1. Cisco-Arrowpoint - Arrowpoint:admin:system
+1. IronPort - C30 (HTTP):admin:ironport
+1. Breezecom - Breezecom Adapters:[no user needed]:laflaf
+2. Breezecom - Breezecom Adapters:[no user needed]:Master
+3. Breezecom - Breezecom Adapters:[no user needed]:Helpdesk
+4. Breezecom - Breezecom Adapters:[no user needed]:Super
+5. BreezeCOM - SA10:(blank):(none)
+1. BizDesign - ImageFoliio (HTTP):Admin:ImageFolio
+2. BizDesign - ImageFolio Pro (HTTP):Admin:ImageFolio
+1. Axis - StorPoint CD E100:root:pass
+2. Axis - StorPoint NAS 100:root:pass
+3. Axis - Camera Server:root:pass
+1. Pirelli - Age UB:admin:microbusiness
+1. Virtual Programming - VP-ASP Shopping Cart:admin:admin
+2. Virtual Programming - VP-ASP Shopping Cart:vpasp:vpasp
+1. MachSpeed - PC BIOS (Console):[no user needed]:sp99dd
+1. 3M - Volition:volition:(none)
+2. 3M - Voliton (HTTP):VOL-0215:(none)
+1. Vina Technologies - ConnectReach:(blank):(none)
+1. Chase Research - Iolan:(blank):iolan
+1. ADC Kentrox - Pacesetter Router (Telnet):[no user needed]:secret
+1. Xinit Systems Ltd. - Openfiler (HTTP):openfiler:password
+1. TimeTools - SR Series NTP Server (HTTP, FTP, telnet):admin:admin
+1. EPiServer AB - EPiServer Commerce (HTTP):admin:store
+1. Snom - 320/360 VoIP Business Phone  (HTTP):Administrator:0000
+1. Adtran - MX2800 (Telnet):[no user needed]:adtran
+2. ADTRAN - NetVanta (HTTP):admin:password
+1. Mercury Interactive - Topaz Prism (HTTP):admin:admin
+1. D-Link - 604 (Telnet):Admin:(none)
+2. D-Link - DI-624:admin:(none)
+3. D-Link - DSL-504:(none):private
+4. D-Link - hubs/switches (Telnet):D-Link:D-Link
+5. D-Link - Routers (HTTP):admin:(none)
+6. D-LINK - DSL-G664T:admin:admin
+7. D-Link - DSL Router:root:admin
+8. D-Link - DI-824VUP Airplus G Wireless VPN Router:Admin:(none)
+9. D-Link - DCS-2121:root:admin
+1. NeXT - NeXTStep (Multi):me:(none)
+2. NeXT - NeXTStep (Multi):root:NeXT
+3. NeXT - NeXTStep (Multi):signa:signa
+1. vertex - VERTEX 1501:root:vertex25
+1. Vobis - PC BIOS (Console):[no user needed]:merlin
+1. Zcomax - XG1021:admin:password
+1. TYPO3 - TYPO3:admin:password
+2. TYPO3 - TYPO3 (HTTP):(none):joh316
+1. Xavi - X7722r (HTTP):admin:admin
+1. Alcatel - PBX (Telnet):halt:tlah
+2. Alcatel - PBX (Telnet):install:llatsni
+3. Alcatel - PBX (Telnet):dhs3pms:dhs3pms
+4. Alcatel - PBX (Telnet):adfexc:adfexc
+5. Alcatel - PBX (Telnet):client:client
+6. Alcatel - PBX (Telnet):kermit:kermit
+7. Alcatel - PBX (Telnet):dhs3mt:dhs3mt
+8. Alcatel - PBX (Telnet):at4400:at4400
+9. Alcatel - PBX (Telnet):mtch:mtch
+10. Alcatel - PBX (Telnet):mtcl:mtcl
+11. Alcatel - PBX (Telnet):root:letacla
+12. Alcatel - Speedtouch (HTTP, Telnet):(none):(none)
+1. Horizon DataSys - FoolProof:(none):foolproof
+1. Digicorp - Viper (Telnet):[no user needed]:BRIDGE
+2. Digicorp - Viper (Telnet):[no user needed]:password
+1. Telus - Telephony Services (Multi):(created):telus00
+2. Telus - Telephony Services (Multi):(created):telus99
+1. Fortinet - FortiGate (Serial Console):maintainer:pbcpbn(add-serial-number)
+2. Fortinet - FortiGate (Serial Console):[no user needed]:bcpb(serial number of the firewall)
+1. Inedo - Proget (HTTP):Admin:Admin
+1. H2O Project - Medialibrary (HTTP):admin:admin
+1. Carsten Schmitz - LimeSurvey:admin:password
+1. Nanoteq - NetSeq:admin:NetSeq
+1. Remedy - Remedy (Multi):ARAdmin:AR#Admin#
+2. Remedy - Remedy (Multi):Demo:(none)
+1. Best Practical Solutions - Request Tracker:root:password
+1. Intersystems - Cache Post-RDMS (Console):system:sys
+1. Xerox - Document Centre 432 (HTTP):admin:22222
+2. Xerox - WorkCentre Pro (HTTP):admin:1111
+3. Xerox - WorkCentre/DocumentCentre:savelogs:crash
+4. Xerox - DocuColor (HTTP):admin:admin
+5. Xerox - DocuColor (Integrated Keyboard):(none):11111
+6. Xerox - WorkCentre (HTTP):admin:1111
+7. Xerox - WorkCentre (HTTP):admin:x-admin
+8. Xerox - Document Centre (FTP):NSA:nsa
+1. Aruba - Mobility Controller:admin:admin
+1. Quest Software - TOAD:TOAD:TOAD
+1. Axis Communications - Axis Network Camera (ftp, telnet, http):root:pass
+2. Axis Communications - Printserver (Multi):root:pass
+1. Raritan Inc. - Power IQ (HTTP):web_api:sl33p30F00dumass!
+2. Raritan Inc. - Power IQ (HTTP):epiq_api:raritan
+3. Raritan Inc. - Power IQ (HTTP):admin:raritan
+1. Macsense - AeroPad Mini (HTTP):admin:admin
+1. Unidesk - Management Appliance (MA) (HTTP):Administrator:Unidesk1
+1. Cyberguard - Firewall (Console):cgadmin:cgadmin
+1. BMC Software - Performance Assurance for Microsoft Servers:Best1_User:BackupU$r
+1. Allot - Netenforcer:root:bagabu
+2. Allot - Netenforcer:admin:allot
+1. Avenger News System (ANS) - ANS (HTTP):[no user needed]:Administrative
+1. Joss Technology - PC BIOS (Console):[no user needed]:57gbzb
+2. Joss Technology - PC BIOS (Console):[no user needed]:technolgi
+1. M Technology - PC BIOS (Console):[no user needed]:mMmM
+1. Digium, Inc. - AsteriskNOW:admin:password
+1. Zoom - ADSL Modem:admin:zoomadsl
+1. NCR - NCR UNIX (Multi):ncrm:ncrm
+1. Xylan - Omniswitch (Telnet):admin:switch
+2. Xylan - Omniswitch (Telnet):diag:switch
+1. Entrust - Get Access Service Control Agent (HTTP):admin:admin
+1. Integrated Networks - IP Phone (HTTP):Administrator:19750407
+2. Integrated Networks - IP Phone (HTTP):Administrator:12345678
+3. Integrated Networks - IP Phone (HTTP):Administrator:1234
+1. Echelon Corporation - i.LON Multiple:ilon:ilon
+1. AdComplete.com - Ban Man Pro:Admin1:Admin1
+2. AdComplete.com - Banman Pro (HTTP):Admin1:Admin1
+1. Seclore - FileSecure (HTTP):root:changeonfirstlogin
+2. Seclore - FileSecure (HTTP):sa:changeonfirstlogin
+1. 2Wire, Inc. - Wireless Routers:http:(none)
+1. Site Interactive - Auction Weaver Lite:admin:pass
+1. Kentico Software - Kentico CMS for ASP.NET:administrator:(none)
+1. ManageEngine - ADSelfService Plus :admin:admin
+2. ManageEngine - Desktop Central (HTTP):admin:admin
+1. Enterasys - SecureStack A2 (Console):admin:(none)
+1. SuperMicro - PC BIOS (Console):[no user needed]:ksdjfg934t
+1. Microplex - Print Server (Telnet):root:root
+1. Rainer Wichmann - Beltane:rainer:wichmann
+1. TextPortal - TextPortal:god1:12345
+2. TextPortal - TextPortal:god2:12345
+1. Liquidware Labs, Inc. - Stratusphere UX (HTTP):ssadmin:sspassword
+1. UTStarcom - B-NAS, B-RAS:field:field
+2. UTStarcom - B-NAS, B-RAS:guru:*3noguru
+3. UTStarcom - B-NAS, B-RAS:snmp:snmp
+4. UTStarcom - B-NAS, B-RAS:dbase:dbase
+1. Dictaphone - ProLog:NETOP:(none)
+2. Dictaphone - ProLog:NETWORK:NETWORK
+3. Dictaphone - ProLog:PBX:PBX
+1. Netgear - 802.11b Wireless Cable/DSL router:admin:password
+2. Netgear - Cable/DSL Router (Telnet, Web):admin:1234
+3. Netgear - Router:admin:password
+4. Netgear - DG834G (telnet):(none):zebra
+5. Netgear - WGR614:admin:password
+6. Netgear - WGR614:admin:setup
+7. Netgear - WGE101:admin:password
+8. Netgear - DM602:admin:password
+9. Netgear - WG602:admin:password
+10. Netgear - WRG614:admin:password
+11. Netgear - WGT624:admin:password
+12. Netgear - DG824M:admin:password
+13. Netgear - DG824G:admin:password
+14. Netgear - WAP54G:(none):admin
+15. Netgear - FSV338:Admin:password
+16. Netgear - DG834G:(none):admin
+17. Netgear - WRG614:admin:admin
+18. Netgear - DG834PN RangeMax ADSL Wireless Router:admin:password
+19. Netgear - N600 (HTTP):admin:password
+20. Netgear - ReadyNAS (HTTP):admin:netgear1
+1. Comodo Group, Inc - MyDLP (HTTP):mydlp:mydlp
+1. NetBotz - Appliances:netbotz:netbotz
+1. Triumph-Adler - DC 2116 (HTTP):admin:0
+1. TexBox - TexBox (HTTP):(none):123
+1. ADT - Safewatch Pro3000:(none):2580
+1. Compaq - Familiar Linux (telnet/ssh/console):root:rootme
+2. Compaq - Insight Manager:anonymous:(none)
+3. Compaq - Insight Manager:user:public
+4. Compaq - Insight Manager:operator:operator
+5. Compaq - Insight Manager:administrator:administrator
+6. Compaq - PC BIOS (Console):[no user needed]:Compaq
+7. Compaq - WBEM (HTTP):administrator:administrator
+1. TOTOLINK - Soho Routers:root:12345
+2. TOTOLINK - Soho Routers:onlime_r:12345
+1. Sitecom - DC-207:admin:admin
+2. Sitecom - WL-108:admin:password
+3. Sitecom - WL-109:admin:password
+4. Sitecom - WL-122:(none):sitecom
+5. Sitecom - WR-1133:(none):damin
+6. Sitecom - WL-114v2:admin:admin
+1. Jean-Philippe Lang - Redmine (HTTP):admin:admin
+1. Comersus - Shopping Cart:admin:dmr99
+1. Rizen - WebGUI:Admin:123qwe
+1. VieNuke - VieBoard:admin:admin
+1. FrontRange Solutions - GoldMine Software:master:access
+1. Raritan - KVM Switches:admin:raritan
+1. GrandStream - HandyTone 286/386/GXP-2000 VoIP Analog Telephone Adaptor (HTTP):End User:123 (or blank)
+2. GrandStream - HandyTone 286/386/GXP-2000 VoIP Analog Telephone Adaptor (HTTP):Administrator:admin
+3. GrandStream - HandyTone 486/488/496 VoIP Analog Telephone Adaptor (HTTP):End User:123 (or blank)
+4. GrandStream - HandyTone 486/488/496 VoIP Analog Telephone Adaptor (HTTP):Administrator:admin
+5. GrandStream - HandyTone Budgetone-100 IP Phone (HTTP):(none):admin
+1. OTRS Inc. - OTRS (HTTP):root@localhost:root
+1. Enhydra  - Multiserver:admin:enhydra
+1. Rainbow - IKEY:(none):rainbow
+2. Rainbow - IKEY:[no user needed]:PASSWORD
+1. Accelerated Networks - DSL CPE and DSLAM (Telnet):sysadm:anicust
+1. Ambit - Cable Modems:user:user
+2. Ambit - Cable Modems:root:root
+1. Biostar - PC BIOS (Console):[no user needed]:Biostar
+2. Biostar - PC BIOS (Console):[no user needed]:Q54arwms
+1. Capricorn Infotech India - eToken Pro:(none):1234567890
+1. eSeSIX Computer GmbH - Thintune:root:jstwo
+1. Busybox - Busybox:admin:admin
+1. Apache Project - N/A:jj:(none)
+1. Bay Networks - Router (Telnet):Manager:(none)
+2. Bay Networks - Router (Telnet):User:(none)
+3. Bay Networks - SuperStack II (Telnet):security:security
+4. Bay Networks - Switch (Telnet):[no user needed]:NetICs
+1. RayTalk - RB-300:root:root
+1. Johnson Controls - HVAC System (MODEM):johnson:control
+1. Arrowpoint - Unknown:(blank):(none)
+2. Arrowpoint - Unknown:admin:system
+1. Sybase - Adaptive Server Enterprise (11.x):12.x:(none)
+2. Sybase - ASA (SQL):DBA:SQL
+1. Schneider Electric - PowerLogic Ethernet Communications Card (HTTP):(none):admin
+2. Schneider Electric - FactoryCast Quantum / Premium PLC Management (FTP, HTTP):USER:USER
+3. Schneider Electric - FactoryCast Quantum / Premium PLC Management (FTP):ntpupdate:ntpupdate
+4. Schneider Electric - ETZ 410/510 Module (HTTP, PAP):USER:USER
+5. Schneider Electric - Quantum NOE 771 xx Ethernet Module (FTP, HTTP):USER:USER
+1. Covertix - SmartCipher:Admin:Admin
+1. Apache - Tomcat (HTTP):admin:tomcat
+2. Apache - Tomcat (HTTP):admin:admin
+3. Apache - Tomcat (HTTP):tomcat:tomcat
+4. Apache - Tomcat (HTTP):admin:tomcat
+5. Apache - Tomcat (HTTP):root:root
+6. Apache - Tomcat (HTTP):role1:role1
+7. Apache - Tomcat (HTTP):role:changethis
+8. Apache - Tomcat (HTTP):root:changethis
+9. Apache - Tomcat (HTTP):tomcat:changethis
+10. Apache - Tomcat:admin:j5Brn9
+11. Apache - Tomcat (HTTP):both:tomcat
+12. Apache - Tomcat (HTTP):role1:tomcat
+1. Konica Minolta - PageScope Web Connection (Physical Access):(none):0000
+2. Konica Minolta - Bizhub C10, magicolor 2490MF (HTTP):(none):MagiMFP
+1. rPath - rPath (HTTP):admin:password
+1. APC - AP9606 SmartSlot Web/SNMP Management Card (telnet):(any):TENmanUFactOryPOWER
+2. APC - Call-UPS (Console):[no user needed]:serial number of the Call-UPS
+3. APC - MasterSwitch:apc:apc
+4. APC - Powerchute Plus (Console):POWERCHUTE:APC
+5. APC - Share-UPS (Console):[no user needed]:serial number of the Share-UPS
+6. APC - SNMP Adapter:apc:apc
+7. APC - Web/SNMP Management Card (Multi):apc:apc
+8. APC - UPS Network Management Card 2 (HTTP):readonly:apc
+9. APC - UPS Network Management Card 2 (Telnet/SSH):device:apc
+1. Symantec - Brightmail Anti-Spam:root:brightmail
+2. Symantec - VPN/Firewall Appliance (HTTP/GUI):admin:(none)
+3. Symantec - Norton Antivurs (Multiple):(none):symantec
+1. Level1 - WAP_002:admin:admin
+1. Autodesk - Autocad (Multi):autocad:autocad
+1. Megastar - PC BIOS (Console):[no user needed]:star
+1. UT Lexar - PBX Switch:lexar:(none)
+1. Pivotal Software, Inc.  - RabbitMQ Management Plugin (HTTP):guest:guest
+1. Toshiba - PC BIOS (Console):[no user needed]:24Banc81
+2. Toshiba - PC BIOS (Console):[no user needed]:Toshiba
+3. Toshiba - PC BIOS (Console):[no user needed]:toshy99
+4. Toshiba - WBG:super:superpass
+5. Toshiba - e-Studio (HTTP):admin:123456
+1. 360 Systems - Image Server 2000:factory:factory
+1. AMI - PC BIOS (Console):[no user needed]:AM
+2. AMI - PC BIOS (Console):[no user needed]:AMI
+3. AMI - PC BIOS (Console):[no user needed]:A.M.I
+4. AMI - PC BIOS (Console):[no user needed]:AMI_SW
+5. AMI - PC BIOS (Console):[no user needed]:AMI?SW
+6. AMI - PC BIOS (Console):[no user needed]:aammii
+7. AMI - PC BIOS (Console):[no user needed]:AMI!SW
+8. AMI - PC BIOS (Console):[no user needed]:AMI.KEY
+9. AMI - PC BIOS (Console):[no user needed]:AMI.KEZ
+10. AMI - PC BIOS (Console):[no user needed]:AMI~
+11. AMI - PC BIOS (Console):[no user needed]:AMIPSWD
+12. AMI - PC BIOS (Console):[no user needed]:AMISETUP
+13. AMI - PC BIOS (Console):[no user needed]:BIOSPASS
+14. AMI - PC BIOS (Console):[no user needed]:CMOSPWD
+15. AMI - PC BIOS (Console):[no user needed]:HEWITT RAND
+1. Ektron, Inc. - CMS400.NET (HTTP):builtin:builtin
+2. Ektron, Inc. - CMS400.NET (SQL):sa:Ektron
+1. Saba - Centra (HTTP):admin:admin
+1. Patton - RAS:superuser:superuser
+2. Patton - RAS:monitor:monitor
+1. Cabletron - Netgear modem/router and SSR:netman:(none)
+2. Cabletron - routers & switches:(none):(none)
